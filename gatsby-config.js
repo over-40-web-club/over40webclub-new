@@ -24,7 +24,7 @@ module.exports = {
         background_color: "#ffffff",
         theme_color: "#fed136",
         display: "minimal-ui",
-        icon: "content/assets/gatsby-icon.png",
+        icon: "content/assets/over40.png",
       },
     },
     "gatsby-transformer-remark",
@@ -42,6 +42,7 @@ module.exports = {
         path: `${__dirname}/content/assets/images`,
       },
     },
+
     "gatsby-plugin-eslint",
     "gatsby-plugin-react-helmet",
     "gatsby-transformer-sharp",
