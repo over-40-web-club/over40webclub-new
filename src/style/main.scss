@@ -60,7 +60,7 @@ img::-moz-selection {
 .btn-xl {
   font-size: 18px;
   padding: 20px 40px;
-}
+  }
 
 .btn-primary {
   background-color: $primary;
@@ -71,6 +71,26 @@ img::-moz-selection {
     background-color: darken($primary, 7.5%) !important;
     border-color: darken($primary, 7.5%) !important;
     color: white;
+    animation: vibration 1s;
+}
+
+@keyframes vibration {
+  0% {
+  transform: translate(0px, 0px)
+  }
+  25% {
+   transform: translate(2px, 2px)
+  }
+  50% {
+    transform: translate(0px, 2px)
+  }
+  75% {
+    transform: translate(2px, 0px)
+  }
+  100% {
+    transform: translate(0px, 0px)
+  }
+
   }
   &:active,
   &:focus {

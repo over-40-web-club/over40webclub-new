@@ -1,8 +1,8 @@
 ---
 anchor: "チーム"
 header: "チーム"
-subheader: "あなたは偶然断然その持通りについて事のためにまかり出ですた。"
-content: "あなたは偶然断然その持通りについて事のためにまかり出ですた。もう元来を説明心はとうとうこのお話しないななどでいて行くたでは滅亡しましでて、再びにはなったうないです。"
+subheader: "未だかつて人類が経験したことのない長寿社会を、豊かにそして楽しく生きていくために、わたしは学び続けます。あなたと共に😊"
+content: "未だかつて人類が経験したことのない長寿社会を、豊かにそして楽しく生きていくために、わたしは学び続けます。あなたと共に😊✨"
 teamMember: [
   {
     imageFileName: "team/1.jpg",
@@ -16,10 +16,10 @@ teamMember: [
   },
   {
     imageFileName: "team/2.jpg",
-    header: "Larry Parker",
-    subheader: "Lead Marketer",
+    header: "Pitang",
+    subheader: "yoko 管理人",
     social: {
-      twitter: "#",
+      twitter: "#pitang1965",
       facebook: "#",
       medium: "#"
     }

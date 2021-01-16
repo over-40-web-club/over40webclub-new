@@ -1,34 +1,34 @@
 ---
 anchor: "沿革"
 header: "沿革"
-subheader: "あなたは偶然断然その持通りについて事のためにまかり出ですた。"
+subheader: "未だかつて人類が経験したことのない長寿社会を、豊かにそして楽しく生きていくために、わたしは学び続けます。あなたと共に😊"
 timeline: [
   {
     imageFileName: "about/1.jpg",
-    header: "2009年-2011年",
-    subheader: "Our Humble Beginnings",
-    content: "あなたは偶然断然その持通りについて事のためにまかり出ですた。もう元来を説明心はとうとうこのお話しないななどでいて行くたでは滅亡しましでて、再びにはなったうないです。"
+    header: "2020年3月",
+    subheader: "コロナ失業😅",
+    content: "Wow！コロナなので学習する時間にすると割り切る😊✨ 以前から作りたかった[友人のウェブサイト]（sakuraipiano.com）を作ってみる"
   },
   {
     imageFileName: "about/2.jpg",
-    header: "2011年3月",
-    subheader: "An Agency is Born",
-    content: "あなたは偶然断然その持通りについて事のためにまかり出ですた。もう元来を説明心はとうとうこのお話しないななどでいて行くたでは滅亡しましでて、再びにはなったうないです。"
+    header: "2020年5月",
+    subheader: "プログラミング学習を開始",
+    content: "未だかつて人類が経験したことのない長寿社会を、豊かにそして楽しく生きていくために、わたしは学び続けます。あなたと共に😊✨"
   },
   {
     imageFileName: "about/3.jpg",
-    header: "2012年12月",
+    header: "2020年7月",
     subheader: "Transition to Full Service",
-    content: "あなたは偶然断然その持通りについて事のためにまかり出ですた。もう元来を説明心はとうとうこのお話しないななどでいて行くたでは滅亡しましでて、再びにはなったうないです。"
+    content: "未だかつて人類が経験したことのない長寿社会を、豊かにそして楽しく生きていくために、わたしは学び続けます。あなたと共に😊✨"
   },
   {
     imageFileName: "about/4.jpg",
-    header: "2014年7月",
+    header: "2020年10月",
     subheader: "Phase Two Expansion",
-    content: "あなたは偶然断然その持通りについて事のためにまかり出ですた。もう元来を説明心はとうとうこのお話しないななどでいて行くたでは滅亡しましでて、再びにはなったうないです。"
+    content: "未だかつて人類が経験したことのない長寿社会を、豊かにそして楽しく生きていくために、わたしは学び続けます。あなたと共に😊✨"
   },
   {
-    imageContent: "Be Part\r\nOf Our\r\nStory!"
+    imageContent: "新たな\r\n物 語 の\r\n始まり"
   }
 ]
 ---

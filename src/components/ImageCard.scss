@@ -14,6 +14,7 @@
       font-style: italic;
       line-height: 22px;
       margin-bottom: 25px;
+        text-shadow: 100px 100px 20px #f5fa9e, -14px -14px 20px #f5fa9e;
       @include serif-font;
     }
     .intro-heading {
@@ -36,9 +37,12 @@
       padding-bottom: 200px;
       .intro-lead-in {
         font-size: 40px;
+        font-weight:600;
         font-style: italic;
         line-height: 40px;
         margin-bottom: 25px;
+        color: rgba(245, 241, 8, 0.8);
+        text-shadow: 100px 100px 20px #f5fa9e, -14px -14px 20px #f5fa9e;
         @include serif-font;
       }
       .intro-heading {
@@ -46,6 +50,9 @@
         font-weight: 700;
         line-height: 75px;
         margin-bottom: 50px;
+        box-sizing: border-box;
+        background-color: #f5f6f84d;
+        box-shadow: 20px 20px 20px #cbced1, -14px -14px 20px white;
         @include heading-font;
       }
     }

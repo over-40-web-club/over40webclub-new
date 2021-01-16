@@ -16,10 +16,10 @@ teamMember: [
   },
   {
     imageFileName: "team/2.jpg",
-    header: "Larry Parker",
-    subheader: "Lead Marketer",
+    header: "Pitang",
+    subheader: "Our Club Leader",
     social: {
-      twitter: "#",
+      twitter: "https://twitter.com/pitang1965",
       facebook: "#",
       medium: "#"
     }
