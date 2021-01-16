@@ -16,10 +16,10 @@ teamMember: [
   },
   {
     imageFileName: "team/2.jpg",
-    header: "Pitang",
-    subheader: "yoko 管理人",
+    header: "Yoko",
+    subheader: "気ままな人",
     social: {
-      twitter: "#pitang1965",
+      twitter: "#yokoiwasaki6",
       facebook: "#",
       medium: "#"
     }
