@@ -6,17 +6,17 @@ portfolios: [
   {
     imageFileName: "portfolio/01-thumbnail.jpg",
     imageFileNameDetail: "portfolio/01-full.jpg",
-    header: "Threads",
-    subheader: "イラストレーション",
-    content: "未だかつて人類が経験したことのない長寿社会を、豊かにそして楽しく生きていくために、わたしは学び続けます。あなたと共に😊✨受売へ折っだっのはもし今をもうないないない。",
-    extraInfo: ["日付： January 2017", "クライエント: Threads", "カテゴリ: Illustration"]
+    header: "Sakuraipiano.netlify.app",
+    subheader: "Webサイト",
+    content: "未だかつて人類が経験したことのない長寿社会を、豊かにそして楽しく生きていくために、わたしは学び続けます。あなたと共に😊✨",
+    extraInfo: ["日付： June 2020", "クライエント: 櫻井桂子", "カテゴリ: ピアノ教師"]
   },
   {
     imageFileName: "portfolio/02-thumbnail.jpg",
     imageFileNameDetail: "portfolio/02-full.jpg",
-    header: "Explorer",
-    subheader: "グラフデザイン",
-    content: "未だかつて人類が経験したことのない長寿社会を、豊かにそして楽しく生きていくために、わたしは学び続けます。あなたと共に😊✨受売へ折っだっのはもし今をもうないないない。",
+    header: "Sound Board",
+    subheader: "Webアプリ",
+    content: "未だかつて人類が経験したことのない長寿社会を、豊かにそして楽しく生きていくために、わたしは学び続けます。あなたと共に😊✨",
     extraInfo: ["日付： January 2017", "クライエント: Explorer", "カテゴリ: Graphic Design"]
   },
   {
@@ -24,7 +24,7 @@ portfolios: [
     imageFileNameDetail: "portfolio/03-full.jpg",
     header: "Finish",
     subheader: "アイデンティティ",
-    content: "未だかつて人類が経験したことのない長寿社会を、豊かにそして楽しく生きていくために、わたしは学び続けます。あなたと共に😊✨受売へ折っだっのはもし今をもうないないない。",
+    content: "未だかつて人類が経験したことのない長寿社会を、豊かにそして楽しく生きていくために、わたしは学び続けます。あなたと共に😊✨",
     extraInfo: ["日付： January 2017", "クライエント: Finish", "カテゴリ: Identity"]
   },
   {
@@ -32,7 +32,7 @@ portfolios: [
     imageFileNameDetail: "portfolio/04-full.jpg",
     header: "Lines",
     subheader: "ブランディング",
-    content: "未だかつて人類が経験したことのない長寿社会を、豊かにそして楽しく生きていくために、わたしは学び続けます。あなたと共に😊✨受売へ折っだっのはもし今をもうないないない。",
+    content: "未だかつて人類が経験したことのない長寿社会を、豊かにそして楽しく生きていくために、わたしは学び続けます。あなたと共に😊✨",
     extraInfo: ["日付： January 2017", "クライエント: Lines", "カテゴリ: Branding"]
   },
   {
@@ -40,7 +40,7 @@ portfolios: [
     imageFileNameDetail: "portfolio/05-full.jpg",
     header: "Southwest",
     subheader: "ウェブサイトデザイン",
-    content: "未だかつて人類が経験したことのない長寿社会を、豊かにそして楽しく生きていくために、わたしは学び続けます。あなたと共に😊✨受売へ折っだっのはもし今をもうないないない。",
+    content: "未だかつて人類が経験したことのない長寿社会を、豊かにそして楽しく生きていくために、わたしは学び続けます。あなたと共に😊✨",
     extraInfo: ["日付： January 2017", "クライエント: Southwest", "カテゴリ: Website Design"]
   },
   {
@@ -48,7 +48,7 @@ portfolios: [
     imageFileNameDetail: "portfolio/06-full.jpg",
     header: "Window",
     subheader: "フォトショップ",
-    content: "未だかつて人類が経験したことのない長寿社会を、豊かにそして楽しく生きていくために、わたしは学び続けます。あなたと共に😊✨受売へ折っだっのはもし今をもうないないない。",
+    content: "未だかつて人類が経験したことのない長寿社会を、豊かにそして楽しく生きていくために、わたしは学び続けます。あなたと共に😊✨",
     extraInfo: ["日付： January 2017", "クライエント: Window", "カテゴリ: Photography"]
   }
 ]

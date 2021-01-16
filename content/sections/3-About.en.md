@@ -18,7 +18,7 @@ timeline: [
   {
     imageFileName: "about/3.jpg",
     header: "December 2012",
-    subheader: "Transition to Full Service",
+    subheader: "Start Learning React",
     content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
   },
   {

@@ -18,7 +18,7 @@ timeline: [
   {
     imageFileName: "about/3.jpg",
     header: "2020年7月",
-    subheader: "Transition to Full Service",
+    subheader: "React学習スタート",
     content: "未だかつて人類が経験したことのない長寿社会を、豊かにそして楽しく生きていくために、わたしは学び続けます。あなたと共に😊✨"
   },
   {
@@ -28,7 +28,7 @@ timeline: [
     content: "未だかつて人類が経験したことのない長寿社会を、豊かにそして楽しく生きていくために、わたしは学び続けます。あなたと共に😊✨"
   },
   {
-    imageContent: "新たな\r\n物 語 の\r\n始まり"
+    imageContent: "あなたと\r\n物語の\r\n始まり\r\n🐈"
   }
 ]
 ---
