@@ -24,7 +24,13 @@ timeline: [
   {
     imageFileName: "about/4.jpg",
     header: "2020年10月",
-    subheader: "Phase Two Expansion",
+    subheader: "Over 40 Web Club参加",
+    content: "未だかつて人類が経験したことのない長寿社会を、豊かにそして楽しく生きていくために、わたしは学び続けます。あなたと共に😊✨"
+  },
+  {
+    imageFileName: "about/4.jpg",
+    header: "2020年12月",
+    subheader: "IT KINGTOM参加",
     content: "未だかつて人類が経験したことのない長寿社会を、豊かにそして楽しく生きていくために、わたしは学び続けます。あなたと共に😊✨"
   },
   {

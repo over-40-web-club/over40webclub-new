@@ -6,7 +6,7 @@ content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, l
 teamMember: [
   {
     imageFileName: "team/1.jpg",
-    header: "Kay Garland",
+    header: "Pitang",
     subheader: "Lead Designer",
     social: {
       twitter: "#",
@@ -26,7 +26,7 @@ teamMember: [
   },
   {
     imageFileName: "team/3.jpg",
-    header: "Diana Pertersen",
+    header: "Son Hiroki Hongsu",
     subheader: "Lead Developer",
     social: {
       twitter: "#",

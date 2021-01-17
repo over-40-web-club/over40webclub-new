@@ -1,15 +1,15 @@
 ---
 anchor: "チーム"
 header: "チーム"
-subheader: "未だかつて人類が経験したことのない長寿社会を、豊かにそして楽しく生きていくために、わたしは学び続けます。あなたと共に😊"
+subheader: "わたしは学び続けます。あなたと共に😊"
 content: "未だかつて人類が経験したことのない長寿社会を、豊かにそして楽しく生きていくために、わたしは学び続けます。あなたと共に😊✨"
 teamMember: [
   {
     imageFileName: "team/1.jpg",
-    header: "Kay Garland",
-    subheader: "Lead Designer",
+    header: "Pitang",
+    subheader: "策士",
     social: {
-      twitter: "#",
+      twitter: "#pitang1965",
       facebook: "#",
       linkedin: "#"
     }
@@ -26,10 +26,10 @@ teamMember: [
   },
   {
     imageFileName: "team/3.jpg",
-    header: "Diana Pertersen",
-    subheader: "Lead Developer",
+    header: "Son Hiroki Hongsu",
+    subheader: "エンターテイナー",
     social: {
-      twitter: "#",
+      twitter: "#horumont",
       facebook: "#",
       medium: "#"
     }
