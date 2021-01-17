@@ -9,19 +9,15 @@ teamMember: [
     header: "Pitang",
     subheader: "策士",
     social: {
-      twitter: "#pitang1965",
-      facebook: "#",
-      linkedin: "#"
+      twitter: "pitang1965",
     }
   },
   {
     imageFileName: "team/2.jpg",
-    header: "Over 40 Web Club",
+    header: "yoko",
     subheader: "気ままな人",
     social: {
-      twitter: "#yokoiwasaki6",
-      facebook: "#",
-      medium: "#"
+      twitter: "yokoiwasaki6",
     }
   },
   {
@@ -29,9 +25,31 @@ teamMember: [
     header: "Son Hiroki Hongsu",
     subheader: "エンターテイナー",
     social: {
-      twitter: "#horumont",
-      facebook: "#",
-      medium: "#"
+      twitter: "horumont",
+    }
+  },
+  {
+    imageFileName: "team/",
+    header: "-",
+    subheader: "-",
+    social: {
+      twitter: "#",
+    }
+  },
+  {
+    imageFileName: "team/",
+    header: "-",
+    subheader: "-",
+    social: {
+      twitter: "#",
+    }
+  },
+  {
+    imageFileName: "team/",
+    header: "-",
+    subheader: "-",
+    social: {
+      twitter: "#",
     }
   },
 ]
