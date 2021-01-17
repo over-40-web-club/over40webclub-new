@@ -1,5 +1,5 @@
 module.exports = {
-  title: "Gatsyby Startbootstrap Agency",
+  title: "Over 40 Web Club",
   keywords: [
     "gatsby",
     "gatsbyjs",

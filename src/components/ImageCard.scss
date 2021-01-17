@@ -14,7 +14,7 @@
       font-style: italic;
       line-height: 22px;
       margin-bottom: 25px;
-        text-shadow: 100px 100px 20px #f5fa9e, -14px -14px 20px #f5fa9e;
+      text-shadow: 100px 100px 20px #f5fa9e, -14px -14px 20px #f5fa9e;
       @include serif-font;
     }
     .intro-heading {
@@ -52,7 +52,7 @@
         margin-bottom: 50px;
         box-sizing: border-box;
         background-color: #f5f6f84d;
-        box-shadow: 20px 20px 20px #cbced1, -14px -14px 20px white;
+        box-shadow: 20px 20px 20px rgb(235, 241, 142), -14px -14px 20px rgb(247, 245, 124);
         @include heading-font;
       }
     }

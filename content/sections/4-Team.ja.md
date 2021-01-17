@@ -1,8 +1,8 @@
 ---
 anchor: "チーム"
 header: "チーム"
-subheader: "わたしは学び続けます。あなたと共に😊"
-content: "未だかつて人類が経験したことのない長寿社会を、豊かにそして楽しく生きていくために、わたしは学び続けます。あなたと共に😊✨"
+subheader: "わたしは学び続けます。あなたもご一緒に😊"
+content: "未だかつて人類が経験したことのない長寿社会を、豊かにそして楽しく生きていくために、わたしは学び続けます。あなたもご一緒に😊✨"
 teamMember: [
   {
     imageFileName: "team/1.jpg",
@@ -16,7 +16,7 @@ teamMember: [
   },
   {
     imageFileName: "team/2.jpg",
-    header: "Yoko",
+    header: "Over 40 Web Club",
     subheader: "気ままな人",
     social: {
       twitter: "#yokoiwasaki6",

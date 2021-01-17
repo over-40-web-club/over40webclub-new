@@ -1,40 +1,40 @@
 ---
 anchor: "沿革"
 header: "沿革"
-subheader: "未だかつて人類が経験したことのない長寿社会を、豊かにそして楽しく生きていくために、わたしは学び続けます。あなたと共に😊"
+subheader: "未だかつて人類が経験したことのない長寿社会を、豊かにそして楽しく生きていくために、わたしは学び続けます。あなたもご一緒に"
 timeline: [
   {
     imageFileName: "about/1.jpg",
-    header: "2020年3月",
-    subheader: "コロナ失業😅",
-    content: "Wow！コロナなので学習する時間にすると割り切る😊✨ 以前から作りたかった[友人のウェブサイト]（sakuraipiano.com）を作ってみる"
+    header: "2020年9月",
+    subheader: "Over 40 Web Club発足",
+    content: "Pitangが発起人となりクラブを立ち上げる"
   },
   {
     imageFileName: "about/2.jpg",
-    header: "2020年5月",
-    subheader: "プログラミング学習を開始",
-    content: "未だかつて人類が経験したことのない長寿社会を、豊かにそして楽しく生きていくために、わたしは学び続けます。あなたと共に😊✨"
+    header: "2020年10月",
+    subheader: "初めてのプログラミング学習会を開催",
+    content: "静的サイトジェネレーターGatsby+AirTableについて学ぶ"
   },
   {
     imageFileName: "about/3.jpg",
-    header: "2020年7月",
-    subheader: "React学習スタート",
-    content: "未だかつて人類が経験したことのない長寿社会を、豊かにそして楽しく生きていくために、わたしは学び続けます。あなたと共に😊✨"
-  },
-  {
-    imageFileName: "about/4.jpg",
-    header: "2020年10月",
-    subheader: "Over 40 Web Club参加",
-    content: "未だかつて人類が経験したことのない長寿社会を、豊かにそして楽しく生きていくために、わたしは学び続けます。あなたと共に😊✨"
+    header: "2020年11月-12月",
+    subheader: "Reactの学習会をシリーズで開催",
+    content: "基礎編でブックプロジェクト作成したり、useState、useEffectを使用したプロジェクトを作成しました"
   },
   {
     imageFileName: "about/4.jpg",
     header: "2020年12月",
-    subheader: "IT KINGTOM参加",
-    content: "未だかつて人類が経験したことのない長寿社会を、豊かにそして楽しく生きていくために、わたしは学び続けます。あなたと共に😊✨"
+    subheader: "ポモドーロタイマー開発",
+    content: "管理人Pitangの呼びかけにより、ポモドーロタイマー開発大会実施中"
   },
   {
-    imageContent: "あなたと\r\n物語の\r\n始まり\r\n🐈"
+    imageFileName: "about/1.jpg",
+    header: "2021年2月",
+    subheader: "Connpasイベントを主催",
+    content: "Son Hiroki Hongsuさんを講師に、「WordPressもいいけど、Gatsbyもね」主催"
+  },
+  {
+    imageContent: "ご一緒\r\nに\r\nどうぞ"
   }
 ]
 ---

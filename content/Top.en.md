@@ -1,6 +1,6 @@
 ---
 header: "It's Nice To Meet You"
-subheader: "Welcome To Yoko's World!"
+subheader: "Over 40 Web Club"
 imageFileName: "header-bg.jpg"
 jumpToAnchor: "Services"
 jumpToAnchorText: "Tell Me More"

@@ -1,12 +1,10 @@
 ---
-copyright: "Copyright © yoko ✨ 2020"
+copyright: "Copyright © Over 40 Web Club ✨ 2020"
 social: {
-  twitter: "#",
-  facebook: "#",
-  medium: "#"
+  twitter: "https://twitter.com/pitang1965"
 }
-privacyText: "プライバシー"
+privacyText: ""
 privacyHref: "#!"
 termsText: "利用規約"
-termsHref: "#!"
+termsHref: "https://pitang1965.github.io/over40webclub-tos/"
 ---

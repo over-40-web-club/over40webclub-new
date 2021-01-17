@@ -4,7 +4,7 @@
   </a>
 </p>
 <h1 align="center">
-  Gatsyby startbootstrap-agency
+  Over 40 Web Club
 </h1>
 
 gatsby version of startbootstrap-agency with i18n supported.
@@ -75,7 +75,7 @@ gatsby new my-blog-folder https://github.com/thundermiracle/gatsby-startbootstra
 - change `file name's number` in `'content/sections'` folder to change the sort order.
 
 - nullable items (if defined):
-  
+
   - `anchor` in section markdown: display in menu if defined in sections' markdown
   - items in `social`: `twitter, facebook, linkedin, github, medium`
   - `jumpToAnchor, jumpToAnchorText` in Top.md: add button in Top section

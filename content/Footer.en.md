@@ -1,12 +1,10 @@
 ---
-copyright: "Copyright © ✨ 2020"
+copyright: "Copyright © Over 40 Web Club ✨ 2020"
 social: {
-  twitter: "#",
-  facebook: "#",
-  medium: "#"
+  twitter: "https://twitter.com/pitang1965"
 }
-privacyText: "Privacy Policy"
+privacyText: ""
 privacyHref: "#!"
-termsText: "Terms of Use"
-termsHref: "#!"
+termsText: "Terms of Use (Japanese only)"
+termsHref: "https://pitang1965.github.io/over40webclub-tos/"
 ---

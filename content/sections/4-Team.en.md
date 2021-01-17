@@ -1,7 +1,7 @@
 ---
 anchor: "Team"
-header: "Our Amazing Team"
-subheader: "Lorem ipsum dolor sit amet consectetur."
+header: "We continue to learn to bless our life."
+subheader: "Would you like to join us?"
 content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde."
 teamMember: [
   {
@@ -16,7 +16,7 @@ teamMember: [
   },
   {
     imageFileName: "team/2.jpg",
-    header: "Yoko",
+    header: "Over 40 Web Club",
     subheader: "Our Club Leader",
     social: {
       twitter: "https://twitter.com/yokoiwasaki6",

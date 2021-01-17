@@ -1,54 +1,54 @@
 ---
 anchor: "Portfolio"
 header: "Portfolio"
-subheader: "What I have created so far"
+subheader: "What we have created so far"
 portfolios: [
   {
     imageFileName: "portfolio/01-thumbnail.jpg",
     imageFileNameDetail: "portfolio/01-full.jpg",
-    header: "Sakuraipiano.netlify.app",
-    subheader: "Web sites",
-    content: "Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!",
-    extraInfo: ["Date: January 2017", "Client: Threads", "Category: Illustration"]
+    header: "Gatsby Workshop",
+    subheader: "What is Gatsby?",
+    content: "We held a learning session about Gatsby and published a [simple webpage](https://yokoyoko.netlify.app/).",
+    extraInfo: ["Date: 17th October, 2020", "Lecturer: yoko", "Category: Gatsby, JSX, Netlify"]
   },
   {
     imageFileName: "portfolio/02-thumbnail.jpg",
     imageFileNameDetail: "portfolio/02-full.jpg",
-    header: "Sound Board",
-    subheader: "Web app",
-    content: "Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!",
-    extraInfo: ["Date: January 2017", "Client: Explorer", "Category: Graphic Design"]
+    header: "Gatsby+AirTable Workshop",
+    subheader: "Gatsby beginner's workshop - Application of Airtable and gatsby-airtable-listing - Let's make a static site from cloud database quickly",
+    content: "After taking this workshop, Son-san published [Links for Computer Education](https://takamina-link3.netlify.app/) on the same day.",
+    extraInfo: ["Date: 24th October, 2020", "Lecturer: Pitang", "Category: Gatsby, AirTable"]
   },
   {
     imageFileName: "portfolio/03-thumbnail.jpg",
     imageFileNameDetail: "portfolio/03-full.jpg",
-    header: "Finish",
-    subheader: "Identity",
-    content: "Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!",
-    extraInfo: ["Date: January 2017", "Client: Finish", "Category: Identity"]
+    header: "React Workshop - 1 through 5",
+    subheader: "We have held learning sessions about React.",
+    content: " In the first two sessions, we created and published [book project web page](https://over40webclub-react-basic.netlify.app/). ",
+    extraInfo: ["Date: January 2017", "Lecturer: yoko", "Category: React"]
   },
   {
     imageFileName: "portfolio/04-thumbnail.jpg",
     imageFileNameDetail: "portfolio/04-full.jpg",
-    header: "Lines",
-    subheader: "Branding",
-    content: "Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!",
-    extraInfo: ["Date: January 2017", "Client: Lines", "Category: Branding"]
+    header: "Conpass Online Event",
+    subheader: "WordPress is good, but so is Gatsby",
+    content: "An event --Deploy your portfolio site quickly with Gatsby--",
+    extraInfo: ["Date: 6th February 2021", "Lecturer: Son", "Category: Gatsby"]
   },
   {
     imageFileName: "portfolio/05-thumbnail.jpg",
     imageFileNameDetail: "portfolio/05-full.jpg",
-    header: "Southwest",
-    subheader: "Website Design",
-    content: "Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!",
+    header: "Coming Soon",
+    subheader: "Coming Soon",
+    content: "✨",
     extraInfo: ["Date: January 2017", "Client: Southwest", "Category: Website Design"]
   },
   {
     imageFileName: "portfolio/06-thumbnail.jpg",
     imageFileNameDetail: "portfolio/06-full.jpg",
     header: "Window",
-    subheader: "Photography",
-    content: "Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!",
+    subheader: "Coming Soon",
+    content: "✨",
     extraInfo: ["Date: January 2017", "Client: Window", "Category: Photography"]
   }
 ]

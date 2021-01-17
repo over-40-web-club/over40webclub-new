@@ -1,7 +1,7 @@
 ---
 header: "お会いできて光栄です"
-subheader: "ようこそ YOKOの世界へ!"
+subheader: "Over 40 Web Club"
 imageFileName: "header-bg.jpg"
 jumpToAnchor: "サービス"
-jumpToAnchorText: "詳細"
+jumpToAnchorText: "Over 40 Web Clubとは"
 ---
