@@ -5,7 +5,7 @@ subheader: "In a society with a longevity never experienced, we will fulfill our
 timeline: [
   {
     imageFileName: "about/1.jpg",
-    header: "September 2020",
+    header: "28 September 2020",
     subheader: "Over 40 Web Club Beginnings",
     content: "Pitang founded the club."
   },

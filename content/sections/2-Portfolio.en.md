@@ -32,7 +32,7 @@ portfolios: [
     imageFileNameDetail: "portfolio/04-full.jpg",
     header: "Connpass Online Event",
     subheader: "WordPress is good, but so is Gatsby",
-    content: "An event --Deploy your portfolio site quickly with Gatsby--",
+    content: "[An event --Deploy your portfolio site quickly with Gatsby--](https://over40webclub.connpass.com/event/201741/)",
     extraInfo: ["Date: 6th February 2021", "Lecturer: Son", "Category: Gatsby"]
   },
   {

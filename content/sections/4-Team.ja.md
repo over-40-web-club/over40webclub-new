@@ -6,7 +6,7 @@ content: "未だかつて人類が経験したことのない長寿社会を、�
 teamMember: [
   {
     imageFileName: "team/1.jpg",
-    header: "Pitang",
+    header: "ピータン",
     subheader: "Web技術について2019年1月から独学中の50代です。現在は、Gatsby + Shopify, Next.js を学習中",
     social: {
       twitter: "pitang1965",
