@@ -5,9 +5,9 @@ subheader: "Web開発の勉強をしている40歳以上の方が、情報交換
 timeline: [
   {
     imageFileName: "about/1.jpg",
-    header: "2020年9月",
+    header: "2020年9月28日",
     subheader: "Over 40 Web Club発足",
-    content: "Pitangが発起人となりクラブを立ち上げる"
+    content: "ピータンが発起人となりクラブを立ち上げる"
   },
   {
     imageFileName: "about/2.jpg",
@@ -25,7 +25,7 @@ timeline: [
     imageFileName: "about/4.jpg",
     header: "2020年12月",
     subheader: "ポモドーロタイマー開発",
-    content: "管理人Pitangの呼びかけにより、ポモドーロタイマー開発大会実施中"
+    content: "管理人ピータンの呼びかけにより、ポモドーロタイマー開発大会実施中"
   },
   {
     imageFileName: "about/1.jpg",
