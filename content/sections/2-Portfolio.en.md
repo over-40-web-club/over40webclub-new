@@ -7,7 +7,7 @@ portfolios: [
     imageFileName: "portfolio/01-thumbnail.jpg",
     imageFileNameDetail: "portfolio/01-full.jpg",
     header: "Gatsby Workshop",
-    subheader: "What is Gatsby?",
+    subheader: "What is Gatsby? We published a simple web page in the workshop!",
     content: "We held a learning session about Gatsby and published a [simple webpage](https://yokoyoko.netlify.app/).",
     extraInfo: ["Date: 17th October, 2020", "Lecturer: yoko", "Category: Gatsby, JSX, Netlify"]
   },
@@ -25,12 +25,12 @@ portfolios: [
     header: "React Workshop - 1 through 5",
     subheader: "We have held learning sessions about React.",
     content: " In the first two sessions, we created and published [book project web page](https://over40webclub-react-basic.netlify.app/). ",
-    extraInfo: ["Date: January 2017", "Lecturer: yoko", "Category: React"]
+    extraInfo: ["Date: Nov 2020 onwords", "Lecturer: yoko", "Category: React"]
   },
   {
     imageFileName: "portfolio/04-thumbnail.jpg",
     imageFileNameDetail: "portfolio/04-full.jpg",
-    header: "Conpass Online Event",
+    header: "Connpass Online Event",
     subheader: "WordPress is good, but so is Gatsby",
     content: "An event --Deploy your portfolio site quickly with Gatsby--",
     extraInfo: ["Date: 6th February 2021", "Lecturer: Son", "Category: Gatsby"]
@@ -41,15 +41,15 @@ portfolios: [
     header: "Coming Soon",
     subheader: "Coming Soon",
     content: "✨",
-    extraInfo: ["Date: January 2017", "Client: Southwest", "Category: Website Design"]
+    extraInfo: ["Date: -", "Client: -", "Category: -"]
   },
   {
     imageFileName: "portfolio/06-thumbnail.jpg",
     imageFileNameDetail: "portfolio/06-full.jpg",
-    header: "Window",
+    header: "Coming Soon",
     subheader: "Coming Soon",
     content: "✨",
-    extraInfo: ["Date: January 2017", "Client: Window", "Category: Photography"]
+    extraInfo: ["Date: -", "Client: -", "Category: -"]
   }
 ]
 ---

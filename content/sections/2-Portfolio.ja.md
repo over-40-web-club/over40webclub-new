@@ -7,8 +7,8 @@ portfolios: [
     imageFileName: "portfolio/01-thumbnail.jpg",
     imageFileNameDetail: "portfolio/01-full.jpg",
     header: "Gatsby学習会",
-    subheader: "第1回 Gatsbyとは- [シンプルなページ](https://yokoyoko.netlify.app/)を公開しました。",
-    content: "Gatsbyの学習会を開催し、[シンプルなページ](https://yokoyoko.netlify.app/)を公開しました。",
+    subheader: "第1回 Gatsbyとは- シンプルなページを公開しました。",
+    content: "Gatsbyの学習会を開催し、[シンプルなページ](https://yokoyoko.netlify.app/)**を公開しました。",
     extraInfo: ["日付： 2020年10月17日", "講師: yoko", "カテゴリ: Gatsby, JSX, Netlify"]
   },
   {
@@ -16,7 +16,7 @@ portfolios: [
     imageFileNameDetail: "portfolio/02-full.jpg",
     header: "Gatsby+AirTable初心者学習会",
     subheader: "Airtableとgatsby-airtable-listingの応用 ～ クラウドデータベースから静的サイトをさくっと作ってみよう",
-    content: "この講座を受講した孫さんは、その日のうちに「パソコンのべんきょうのためのリンク(https://takamina-link3.netlify.app/)」を公開しました。",
+    content: "この講座を受講した孫さんは、その日のうちに「[パソコンのべんきょうのためのリンク](https://takamina-link3.netlify.app/)**」を公開しました。",
     extraInfo: ["日付： 2020年10月24日", "講師: ピータン", "カテゴリ: Gatsby, AirTable"]
   },
   {
@@ -24,7 +24,7 @@ portfolios: [
     imageFileNameDetail: "portfolio/03-full.jpg",
     header: "Reactコース  ～ その①〜⑤",
     subheader: "Reactの学習会を開催ししています。",
-    content: "入門コースでは[Bookプロジェクト](https://over40webclub-react-basic.netlify.app/)を公開しました。",
+    content: "入門コースでは[Bookプロジェクト](https://over40webclub-react-basic.netlify.app/)**を公開しました。",
     extraInfo: ["日付： November 2020 〜", "講師: yoko", "カテゴリ: React"]
   },
   {
@@ -41,15 +41,15 @@ portfolios: [
     header: "近日公開",
     subheader: "近日公開",
     content: "✨",
-    extraInfo: ["日付： -", "講師: -", "カテゴリ: -"]
+    extraInfo: ["日付： ✨", "講師: ✨", "カテゴリ: ✨"]
   },
   {
     imageFileName: "portfolio/06-thumbnail.jpg",
     imageFileNameDetail: "portfolio/06-full.jpg",
-    header: "Window",
+    header: "Coming Soon",
     subheader: "近日公開",
     content: "✨",
-    extraInfo: ["日付： January 2017", "クライエント: Window", "カテゴリ: Photography"]
+    extraInfo: ["日付： ✨", "クライエント: ✨", "カテゴリ: ✨"]
   }
 ]
 ---

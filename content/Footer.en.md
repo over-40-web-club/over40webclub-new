@@ -1,7 +1,7 @@
 ---
 copyright: "Copyright © Over 40 Web Club ✨ 2020"
 social: {
-  twitter: "https://twitter.com/pitang1965"
+  twitter: "pitang1965"
 }
 privacyText: ""
 privacyHref: "#!"
