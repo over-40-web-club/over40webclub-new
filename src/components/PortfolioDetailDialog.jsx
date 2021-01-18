@@ -1,4 +1,5 @@
 import React from "react";
+import Markdown from 'markdown-to-jsx';
 import PropTypes from "prop-types";
 
 import { Modal, Button } from "react-bootstrap";
@@ -33,7 +34,7 @@ const PortfolioDetailDialog = ({
           fileName={imageFileName}
           alt={imageAlt || header || subheader}
         />
-        <p>{content}</p>
+        <Markdown>{content}</Markdown>
         {extraInfo}
       </Modal.Body>
       <Modal.Footer>
