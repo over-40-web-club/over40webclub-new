@@ -12,6 +12,7 @@ teamMember: [
       homepage: "https://software.pitang1965.com/",
       twitter: "pitang1965",
       github: "pitang1965",
+      instagram: "pitang1965",
     }
   },
   {
