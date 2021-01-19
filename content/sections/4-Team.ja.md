@@ -68,7 +68,7 @@ teamMember: [
   {
     imageFileName: "team/8-nishijima.jpg",
     header: "西島 伸一朗",
-    subheader: "ロンドンの自営の**[賃貸業者]（https://jtecpc.com）**。Shopifyデベロッパーをめざして、マーケティング、フロントエンド、英語を勉強中",
+    subheader: "ロンドンの自営の賃貸業者**[JTECPC](https://jtecpc.com)**。Shopifyデベロッパーをめざして、マーケティング、フロントエンド、英語を勉強中",
     social: {
       twitter: "Hgnsuika",
       github: "hgnsuika?tab=repositories",

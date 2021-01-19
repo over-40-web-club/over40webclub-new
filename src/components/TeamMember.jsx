@@ -1,4 +1,5 @@
 import React from "react";
+import Markdown from 'markdown-to-jsx';
 import PropTypes from "prop-types";
 
 import Image from "components/Image";
@@ -27,7 +28,7 @@ const TeamMember = ({
         alt={imageAlt || header || subheader}
       />
       <h4>{header}</h4>
-      <p className="text-muted">{subheader}</p>
+      <p className="text-muted"><Markdown>{subheader}</Markdown></p>
       <div>
         {twitterPart}
         {facebookPart}
