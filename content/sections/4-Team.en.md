@@ -34,27 +34,46 @@ teamMember: [
     }
   },
   {
-    imageFileName: "team/",
-    header: "-",
-    subheader: "-",
+    imageFileName: "team/4-damgo.jpg",
+    header: "Damgo",
+    subheader: "Lifelong programmer",
     social: {
-      twitter: "#",
+      twitter: "Damgoweb",
     }
   },
   {
-    imageFileName: "team/",
-    header: "-",
-    subheader: "-",
+    imageFileName: "team/5-kamiking.jpg",
+    header: "Kamiking",
+    subheader: "coming soon",
     social: {
-      twitter: "#",
+      twitter: "kamikin_program",
     }
   },
   {
-    imageFileName: "team/",
-    header: "-",
-    subheader: "-",
+    imageFileName: "team/6-bat.jpg",
+    header: "Bat",
+    subheader: "coming soon",
     social: {
-      twitter: "#",
+      twitter: "bat20190608",
+    }
+  },
+  {
+    imageFileName: "team/7-miemo.jpg",
+    header: "miemo",
+    subheader: "coming soon",
+    social: {
+      twitter: "miemo78",
+    }
+  },
+  {
+    imageFileName: "team/8-nishijima.jpg",
+    header: "Shinichiroh Nishijima",
+    subheader: "Self-employed **[Letting agent] (https://jtecpc.com)** in London, studying marketing, front-end and English with the aim of becoming a Shopify developer"",
+    social: {
+      twitter: "Hgnsuika",
+      github: "hgnsuika?tab=repositories",
+      facebook: "shinichiroh.nishijima",
+      linkedin: "https://hgnsuika.com/"
     }
   },
 ]

@@ -1,5 +1,6 @@
 import React from "react";
 import PropTypes from "prop-types";
+import Markdown from "markdown-to-jsx";
 
 import { Row, Col } from "react-bootstrap";
 import TeamMember from "components/TeamMember";
@@ -34,7 +35,7 @@ const Team = ({ className, frontmatter }) => {
       </Row>
       <Row>
         <Col lg={8} className="mx-auto text-center">
-          <p className="large text-muted">{rootContent}</p>
+          <Markdown className="large text-muted">{rootContent}</Markdown>
         </Col>
       </Row>
     </PageSection>
