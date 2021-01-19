@@ -15,7 +15,7 @@ const Footer = ({ frontmatter }) => {
     privacyText,
     termsHref,
     termsText,
-    social: { facebook, github, linkedin, medium, twitter },
+    social: { facebook, github, linkedin, medium, twitter, homepage },
   } = frontmatter;
 
   return (
@@ -26,6 +26,7 @@ const Footer = ({ frontmatter }) => {
             {copyright}
           </Col>
           <Col lg={3} className="my-3 my-lg-0">
+            {homepage ? <SocialIcons.Homepage url={homepage} /> : null}
             {twitter ? <SocialIcons.Twitter userName={twitter} /> : null}
             {facebook ? <SocialIcons.Facebook userName={facebook} /> : null}
             {linkedin ? <SocialIcons.Linkedin userName={linkedin} /> : null}

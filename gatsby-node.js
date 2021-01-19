@@ -50,6 +50,7 @@ exports.createSchemaCustomization = ({ actions }) => {
     }`,
     `
     type Social {
+      homepage: String
       twitter: String
       facebook: String
       linkedin: String

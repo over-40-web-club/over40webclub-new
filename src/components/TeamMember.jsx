@@ -1,5 +1,5 @@
 import React from "react";
-import Markdown from 'markdown-to-jsx';
+import Markdown from "markdown-to-jsx";
 import PropTypes from "prop-types";
 
 import Image from "components/Image";
@@ -12,8 +12,9 @@ const TeamMember = ({
   imageAlt,
   header,
   subheader,
-  social: { twitter, facebook, linkedin, github, medium },
+  social: { homepage, twitter, facebook, linkedin, github, medium },
 }) => {
+  const homepagePart = homepage ? <SocialIcons.Homepage url={homepage} /> : null;
   const twitterPart = twitter ? <SocialIcons.Twitter userName={twitter} /> : null;
   const facebookPart = facebook ? <SocialIcons.Facebook userName={facebook} /> : null;
   const linkedinPart = linkedin ? <SocialIcons.Linkedin userName={linkedin} /> : null;
@@ -28,8 +29,11 @@ const TeamMember = ({
         alt={imageAlt || header || subheader}
       />
       <h4>{header}</h4>
-      <p className="text-muted"><Markdown>{subheader}</Markdown></p>
+      <p className="text-muted">
+        <Markdown>{subheader}</Markdown>
+      </p>
       <div>
+        {homepagePart}
         {twitterPart}
         {facebookPart}
         {linkedinPart}
@@ -46,6 +50,7 @@ TeamMember.propTypes = {
   header: PropTypes.string,
   subheader: PropTypes.string,
   social: PropTypes.shape({
+    homepage: PropTypes.string,
     twitter: PropTypes.string,
     facebook: PropTypes.string,
     linkedin: PropTypes.string,
@@ -59,6 +64,7 @@ TeamMember.defaultProps = {
   header: "",
   subheader: "",
   social: {
+    homepage: null,
     twitter: null,
     facebook: null,
     linkedin: null,

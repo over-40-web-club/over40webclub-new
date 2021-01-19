@@ -63,6 +63,7 @@ export const query = graphql`
             imageFileName
           }
           social {
+            homepage
             facebook
             github
             linkedin
@@ -74,6 +75,7 @@ export const query = graphql`
             header
             imageFileName
             social {
+              homepage
               facebook
               github
               linkedin

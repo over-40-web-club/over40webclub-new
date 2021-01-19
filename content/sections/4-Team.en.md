@@ -9,9 +9,9 @@ teamMember: [
     header: "Pitang",
     subheader: "I am in my 50s and have been learning about web technologies on my own since January 2019. Currently learning Gatsby + Shopify, Next.js",
     social: {
+      homepage: "https://software.pitang1965.com/",
       twitter: "pitang1965",
       github: "pitang1965",
-      linkedin: "https://pitang1965.com/"
     }
   },
   {
@@ -30,7 +30,6 @@ teamMember: [
     social: {
       twitter: "horumont",
       github: "sonho463",
-      linkedin: "https://twitter.com/horumont"
     }
   },
   {
@@ -70,10 +69,10 @@ teamMember: [
     header: "Shinichiroh Nishijima",
     subheader: "Self-employed **[Letting agent] (https://jtecpc.com)** in London, studying marketing, front-end and English with the aim of becoming a Shopify developer"",
     social: {
+      homepage: "https://hgnsuika.com/",
       twitter: "Hgnsuika",
       github: "hgnsuika?tab=repositories",
       facebook: "shinichiroh.nishijima",
-      linkedin: "https://hgnsuika.com/"
     }
   },
 ]

@@ -9,9 +9,9 @@ teamMember: [
     header: "ピータン",
     subheader: "Web技術について2019年1月から独学中の50代です。現在は、Gatsby + Shopify, Next.js を学習中",
     social: {
+      homepage: "https://software.pitang1965.com/",
       twitter: "pitang1965",
       github: "pitang1965",
-      linkedin: "https://pitang1965.com/"
     }
   },
   {
@@ -30,7 +30,6 @@ teamMember: [
     social: {
       twitter: "horumont",
       github: "sonho463",
-      linkedin: "https://twitter.com/horumont"
     }
   },
   {
@@ -70,10 +69,10 @@ teamMember: [
     header: "西島 伸一朗",
     subheader: "ロンドンの自営の賃貸業者**[JTECPC](https://jtecpc.com)**。Shopifyデベロッパーをめざして、マーケティング、フロントエンド、英語を勉強中",
     social: {
+      homepage: "https://hgnsuika.com/",
       twitter: "Hgnsuika",
       github: "hgnsuika?tab=repositories",
       facebook: "shinichiroh.nishijima",
-      linkedin: "https://hgnsuika.com/"
     }
   },
 ]
