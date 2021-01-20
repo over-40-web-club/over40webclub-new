@@ -60,9 +60,10 @@ teamMember: [
   {
     imageFileName: "team/7-miemo.jpg",
     header: "みぃも",
-    subheader: "coming soon",
+    subheader: "駆け出しデータアナリスト",
     social: {
       twitter: "miemo78",
+      github: "miemo78",
     }
   },
   {
