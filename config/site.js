@@ -12,6 +12,7 @@ module.exports = {
   ],
   description: "Over 40 Web Club",
   author: "-",
+  image: "/images/seo.png",
   trackingId: "UA-119418003-5",
   defaultLang: "ja",
   langTextMap: {

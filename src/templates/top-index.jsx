@@ -24,6 +24,7 @@ export const query = graphql`
       siteMetadata {
         keywords
         description
+        image
       }
     }
     allMarkdownRemark(
@@ -110,7 +111,7 @@ export const query = graphql`
 const IndexPage = ({ data, pathContext: { langKey, defaultLang, langTextMap } }) => {
   const {
     site: {
-      siteMetadata: { keywords, description },
+      siteMetadata: { keywords, description, image },
     },
     allMarkdownRemark: { nodes },
   } = data;
@@ -126,7 +127,7 @@ const IndexPage = ({ data, pathContext: { langKey, defaultLang, langTextMap } })
 
   return (
     <>
-      <SEO lang={langKey} title="Top" keywords={keywords} description={description} />
+      <SEO lang={langKey} title="Top" keywords={keywords} description={description} image={image} />
       <Navbar
         anchors={anchors}
         frontmatter={navBarNode.frontmatter}
