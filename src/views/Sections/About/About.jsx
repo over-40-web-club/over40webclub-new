@@ -1,6 +1,5 @@
 import React from "react";
 import PropTypes from "prop-types";
-import Markdown from "markdown-to-jsx";
 
 import { Row, Col } from "react-bootstrap";
 import TimelineItem from "components/TimelineItem";

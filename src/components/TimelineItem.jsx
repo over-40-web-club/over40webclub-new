@@ -5,7 +5,6 @@ import clsx from "clsx";
 import Image from "components/Image";
 
 import "./TimelineItem.scss";
-import Markdown from "markdown-to-jsx";
 
 const TimelineItem = ({
   invert,
@@ -38,9 +37,7 @@ const TimelineItem = ({
           {subheaderPart}
         </div>
         <div className="timeline-body">
-          <p className="text-muted">
-            <Markdown>{content}</Markdown>
-          </p>
+          <p className="text-muted">{content}</p>
         </div>
       </div>
     </li>
