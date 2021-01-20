@@ -11,6 +11,7 @@ module.exports = {
     "startbootstrap-agency",
   ],
   description: "Over 40 Web Club",
+  url: "https://over40webclub.netlify.app/",
   author: "-",
   image: "/images/seo.png",
   trackingId: "UA-119418003-5",

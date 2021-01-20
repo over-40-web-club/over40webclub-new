@@ -1,8 +1,9 @@
 const path = require("path");
-const { title, keywords, description, author, defaultLang, trackingId, image } = require("./config/site");
+const { url, title, keywords, description, author, defaultLang, trackingId, image } = require("./config/site");
 
 module.exports = {
   siteMetadata: {
+    url,
     title,
     keywords,
     description,
