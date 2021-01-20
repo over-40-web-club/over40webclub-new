@@ -10,7 +10,7 @@ import PropTypes from "prop-types";
 import { Helmet } from "react-helmet";
 import { useStaticQuery, graphql } from "gatsby";
 
-const SEO = ({ lang, description, meta, keywords, title, image, url, facebookAppId }) => {
+const SEO = ({ lang, description, ogDescription, meta, keywords, title, image, url, facebookAppId }) => {
   const { site } = useStaticQuery(
     graphql`
       query {
@@ -19,6 +19,7 @@ const SEO = ({ lang, description, meta, keywords, title, image, url, facebookApp
             url
             title
             description
+            ogDescription
             author
             image
             facebookAppId
@@ -29,6 +30,7 @@ const SEO = ({ lang, description, meta, keywords, title, image, url, facebookApp
   );
 
   const metaDescription = description || site.siteMetadata.description;
+  const metaOgDescription = ogDescription || metaDescription;
 
   return (
     <Helmet
@@ -56,7 +58,7 @@ const SEO = ({ lang, description, meta, keywords, title, image, url, facebookApp
         },
         {
           property: `og:description`,
-          content: metaDescription,
+          content: metaOgDescription,
         },
         {
           property: `og:type`,
@@ -76,7 +78,7 @@ const SEO = ({ lang, description, meta, keywords, title, image, url, facebookApp
         },
         {
           name: `twitter:description`,
-          content: metaDescription,
+          content: metaOgDescription,
         },
         {
           name: `twitter:image`,
@@ -104,6 +106,7 @@ SEO.propTypes = {
   lang: PropTypes.string,
   url: PropTypes.string,
   description: PropTypes.string,
+  ogDescription: PropTypes.string,
   meta: PropTypes.arrayOf(PropTypes.object),
   keywords: PropTypes.arrayOf(PropTypes.string),
   title: PropTypes.string.isRequired,
@@ -117,6 +120,7 @@ SEO.defaultProps = {
   meta: [],
   keywords: [],
   description: "",
+  ogDescription: "",
   facebookAppId: "",
 };
 
