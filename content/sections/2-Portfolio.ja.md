@@ -14,7 +14,7 @@ portfolios: [
   {
     imageFileName: "portfolio/02-thumbnail.jpg",
     imageFileNameDetail: "portfolio/02-full.jpg",
-    header: "Gatsby+AirTable初心者学習会",
+    header: "Gatsby + AirTable初心者学習会",
     subheader: "Airtableとgatsby-airtable-listingの応用 ～ クラウドデータベースから静的サイトをさくっと作ってみよう",
     content: "この講座を受講した孫さんは、その日のうちに「**[パソコンのべんきょうのためのリンク](https://takamina-link3.netlify.app/)**」を公開しました。",
     extraInfo: ["日付： 2020年10月24日", "講師: ピータン", "カテゴリ: Gatsby, AirTable"]

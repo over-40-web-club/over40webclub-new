@@ -27,7 +27,7 @@ teamMember: [
   {
     imageFileName: "team/3.jpg",
     header: "Son Hiroki Hongsu",
-    subheader: "2022年4 フリーランスエンジニア（まずはウェブ制作中心）をめざして学習中です！",
+    subheader: "2022年4月 フリーランスをめざして学習中です！",
     social: {
       twitter: "horumont",
       github: "sonho463",

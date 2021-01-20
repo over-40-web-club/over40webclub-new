@@ -14,7 +14,7 @@ portfolios: [
   {
     imageFileName: "portfolio/02-thumbnail.jpg",
     imageFileNameDetail: "portfolio/02-full.jpg",
-    header: "Gatsby+AirTable Workshop",
+    header: "Gatsby + AirTable Workshop",
     subheader: "Gatsby beginner's workshop - Application of Airtable and gatsby-airtable-listing - Let's make a static site from cloud database quickly",
     content: "After taking this workshop, Son-san published [Links for Computer Education](https://takamina-link3.netlify.app/) on the same day.",
     extraInfo: ["Date: 24th October, 2020", "Lecturer: Pitang", "Category: Gatsby, AirTable"]
