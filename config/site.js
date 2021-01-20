@@ -13,7 +13,7 @@ module.exports = {
   description: "Over 40 Web Club",
   url: "https://over40webclub.netlify.app/",
   author: "-",
-  image: "https://over40webclub.netlify.app/images/seo.png",
+  image: "https://over40webclub.netlify.app/images/seo.jpg",
   trackingId: "UA-119418003-5",
   defaultLang: "ja",
   langTextMap: {

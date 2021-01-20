@@ -25,7 +25,7 @@ timeline: [
     imageFileName: "about/4.jpg",
     header: "December 2020 - current",
     subheader: "Pomodoro Clock development",
-    content: "A Pomodoro timer development competition is now underway."
+    content: "A Pomodoro timer development competition is now underway.**[Work 1](https://kotaro-club.netlify.app/)**"
   },
   {
     imageFileName: "about/1.jpg",

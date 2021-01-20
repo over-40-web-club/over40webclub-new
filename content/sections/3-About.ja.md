@@ -25,7 +25,7 @@ timeline: [
     imageFileName: "about/4.jpg",
     header: "2020年12月",
     subheader: "ポモドーロタイマー開発",
-    content: "管理人ピータンの呼びかけにより、ポモドーロタイマー開発大会実施中"
+    content: "管理人ピータンの呼びかけにより、ポモドーロタイマー開発大会実施中。(**[作品1号](https://kotaro-club.netlify.app/)**)"
   },
   {
     imageFileName: "about/1.jpg",
