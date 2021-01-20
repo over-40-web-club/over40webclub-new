@@ -20,4 +20,5 @@ module.exports = {
     ja: "日本語",
     en: "English",
   },
+  facebookAppId: "3764608810287628",
 };
