@@ -36,7 +36,7 @@ const SEO = ({ lang, description, meta, keywords, title, image, url, facebookApp
         lang,
       }}
       title={title}
-      titleTemplate={`%s | ${site.siteMetadata.title}`}
+      titleTemplate={`${site.siteMetadata.title}`}
       meta={[
         {
           name: `description`,
