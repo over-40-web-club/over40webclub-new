@@ -27,7 +27,7 @@ teamMember: [
   {
     imageFileName: "team/3.jpg",
     header: "Son Hiroki Hongsu",
-    subheader: "Starging from Web site creation, I'll be a freelance engineer by April 2022!",
+    subheader: "Aming at April 2022, I'm learning to be a freelance engineer!",
     social: {
       twitter: "horumont",
       github: "sonho463",
@@ -68,7 +68,7 @@ teamMember: [
   {
     imageFileName: "team/8-nishijima.jpg",
     header: "Shinichiroh Nishijima",
-    subheader: "Self-employed **[Letting agent] (https://jtecpc.com)** in London, studying marketing, front-end and English with the aim of becoming a Shopify developer"",
+    subheader: "Self-employed **[Letting agent] (https://jtecpc.com)** in London, studying marketing, front-end and English with the aim of becoming a Shopify developer",
     social: {
       homepage: "https://hgnsuika.com/",
       twitter: "Hgnsuika",
