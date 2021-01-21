@@ -21,7 +21,9 @@ teamMember: [
     subheader: "Would love to deliver you smile using Web",
     social: {
       twitter: "yokoiwasaki6",
-      github: "yoko-at-home"
+      github: "yoko-at-home",
+      instagram: "yoko_123123",
+
     }
   },
   {
@@ -60,9 +62,10 @@ teamMember: [
   {
     imageFileName: "team/7-miemo.jpg",
     header: "miemo",
-    subheader: "coming soon",
+    subheader: "Fledgling data analyst",
     social: {
       twitter: "miemo78",
+      github: "miemo78",
     }
   },
   {

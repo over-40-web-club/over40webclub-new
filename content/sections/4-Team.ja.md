@@ -21,7 +21,8 @@ teamMember: [
     subheader: "Webであなたにウフ💓を届けたい",
     social: {
       twitter: "yokoiwasaki6",
-      github: "yoko-at-home"
+      github: "yoko-at-home",
+      instagram: "yoko_and_kotaro",
     }
   },
   {
