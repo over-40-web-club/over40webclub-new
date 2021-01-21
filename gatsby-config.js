@@ -1,26 +1,32 @@
 const path = require("path");
 const {
-  url,
   title,
-  keywords,
+  ogTitle,
+  twitterTitle,
   description,
   ogDescription,
+  twitterDescription,
+  image,
+  url,
+  keywords,
   author,
   defaultLang,
   trackingId,
-  image,
   facebookAppId,
 } = require("./config/site");
 
 module.exports = {
   siteMetadata: {
-    url,
     title,
-    keywords,
+    ogTitle,
+    twitterTitle,
     description,
     ogDescription,
-    author,
+    twitterDescription,
     image,
+    url,
+    author,
+    keywords,
     facebookAppId,
   },
   plugins: [

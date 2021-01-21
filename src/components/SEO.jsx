@@ -10,18 +10,21 @@ import PropTypes from "prop-types";
 import { Helmet } from "react-helmet";
 import { useStaticQuery, graphql } from "gatsby";
 
-const SEO = ({ lang, description, ogDescription, meta, keywords, title, image, url, facebookAppId }) => {
+const SEO = ({ lang, title, ogTitle, twitterTitle, description, ogDescription, twitterDescription, image, meta, keywords, url, facebookAppId }) => {
   const { site } = useStaticQuery(
     graphql`
       query {
         site {
           siteMetadata {
-            url
             title
+            ogTitle
+            twitterTitle
             description
             ogDescription
-            author
+            twitterDescription
             image
+            url
+            author
             facebookAppId
           }
         }
@@ -29,8 +32,12 @@ const SEO = ({ lang, description, ogDescription, meta, keywords, title, image, u
     `,
   );
 
+  const metaOgTitle = ogTitle || site.siteMetadata.ogTitle || title;
+  const metaTwitterTitle = twitterTitle || site.siteMetadata.twitterTitle || metaOgTitle;
+
   const metaDescription = description || site.siteMetadata.description;
-  const metaOgDescription = ogDescription || metaDescription;
+  const metaOgDescription = ogDescription || site.siteMetadata.ogDescription || metaDescription;
+  const metaTwitterDescription = twitterDescription || site.siteMetadata.metaTwitterDescription;
 
   return (
     <Helmet
@@ -54,7 +61,7 @@ const SEO = ({ lang, description, ogDescription, meta, keywords, title, image, u
         },
         {
           property: `og:title`,
-          content: title,
+          content: metaOgTitle,
         },
         {
           property: `og:description`,
@@ -74,11 +81,11 @@ const SEO = ({ lang, description, ogDescription, meta, keywords, title, image, u
         },
         {
           name: `twitter:title`,
-          content: title,
+          content: metaTwitterTitle,
         },
         {
           name: `twitter:description`,
-          content: metaOgDescription,
+          content: metaTwitterDescription,
         },
         {
           name: `twitter:image`,
@@ -105,11 +112,14 @@ const SEO = ({ lang, description, ogDescription, meta, keywords, title, image, u
 SEO.propTypes = {
   lang: PropTypes.string,
   url: PropTypes.string,
-  description: PropTypes.string,
-  ogDescription: PropTypes.string,
   meta: PropTypes.arrayOf(PropTypes.object),
   keywords: PropTypes.arrayOf(PropTypes.string),
   title: PropTypes.string.isRequired,
+  ogTitle: PropTypes.string,
+  twitterTitle: PropTypes.string,
+  description: PropTypes.string,
+  ogDescription: PropTypes.string,
+  twitterDescription: PropTypes.string,
   image: PropTypes.string.isRequired,
   facebookAppId: PropTypes.string,
 };
@@ -119,8 +129,11 @@ SEO.defaultProps = {
   url: "",
   meta: [],
   keywords: [],
+  ogTitle: "",
+  twitterTitle: "",
   description: "",
   ogDescription: "",
+  twitterDescription: "",
   facebookAppId: "",
 };
 
