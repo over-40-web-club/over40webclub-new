@@ -6,5 +6,5 @@ social: {
 privacyText: ""
 privacyHref: "#!"
 termsText: "利用規約"
-termsHref: "/TermOfService"
+termsHref: "/terms-of-service"
 ---
