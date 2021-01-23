@@ -6,5 +6,5 @@ social: {
 privacyText: ""
 privacyHref: "#!"
 termsText: "利用規約"
-termsHref: "https://pitang1965.github.io/over40webclub-tos/"
+termsHref: "/TermOfService"
 ---
