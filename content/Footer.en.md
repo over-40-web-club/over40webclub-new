@@ -5,6 +5,6 @@ social: {
 }
 privacyText: ""
 privacyHref: "#!"
-termsText: "Terms of Use (Japanese only)"
-termsHref: "/terms-of-service"
+termsText: ""
+termsHref: "#!"
 ---
