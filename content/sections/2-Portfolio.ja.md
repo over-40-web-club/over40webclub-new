@@ -16,7 +16,7 @@ portfolios: [
     imageFileNameDetail: "portfolio/02-full.jpg",
     header: "Gatsby + AirTable初心者学習会",
     subheader: "Airtableとgatsby-airtable-listingの応用 ～ クラウドデータベースから静的サイトをさくっと作ってみよう",
-    content: "この講座を受講した孫さんは、その日のうちに「**[パソコンのべんきょうのためのリンク](https://takamina-link3.netlify.app/)**」を公開しました。",
+    content: "この講座を受講した そんほんす さんは、その日のうちに「**[パソコンのべんきょうのためのリンク](https://takamina-link3.netlify.app/)**」を公開しました。",
     extraInfo: ["日付： 2020年10月24日", "講師: ピータン", "カテゴリ: Gatsby, AirTable"]
   },
   {
@@ -30,18 +30,18 @@ portfolios: [
   {
     imageFileName: "portfolio/04-thumbnail.jpg",
     imageFileNameDetail: "portfolio/04-full.jpg",
-    header: "Connpass オンラインイベント",
+    header: "Connpass オンラインイベント①",
     subheader: "WordPressもいいけどGatsbyもね",
-    content: "**[「今話題のGatsbyでポートフォリオサイトをサクッとデプロイ」](https://over40webclub.connpass.com/event/201741/)**開催予定",
-    extraInfo: ["日付： 2021年2月6日", "講師: 孫弘樹", "カテゴリ: Gatsby"]
+    content: "**[「今話題のGatsbyでポートフォリオサイトをサクッとデプロイ」](https://over40webclub.connpass.com/event/201741/)**開催",
+    extraInfo: ["日付： 2021年2月6日", "司会： yoko", "講師： そんほんす", "運営： ピータン","カテゴリ： Gatsby"]
   },
   {
     imageFileName: "portfolio/05-thumbnail.jpg",
     imageFileNameDetail: "portfolio/05-full.jpg",
-    header: "近日公開",
-    subheader: "近日公開",
+    header: "Connpass オンラインイベント[予定]",
+    subheader: "メジャーなホスティングサイトへあなたの作品をデプロイしてみよう",
     content: "✨",
-    extraInfo: ["日付： ✨", "講師: ✨", "カテゴリ: ✨"]
+    extraInfo: ["日付： ２月✨日", "司会： yoko", "講師： そんほんす", "運営： ピータン、N.KAZU","カテゴリ： サイト制作、デプロイ"]
   },
   {
     imageFileName: "portfolio/06-thumbnail.jpg",

@@ -65,12 +65,13 @@ img::-moz-selection {
 .btn-primary {
   background-color: $primary;
   border-color: $primary;
+  color: white;
   &:active,
   &:focus,
   &:hover {
     background-color: darken($primary, 7.5%) !important;
     border-color: darken($primary, 7.5%) !important;
-    color: white;
+    color: rgb(249, 247, 234);
     animation: vibration 1s;
 }
 
