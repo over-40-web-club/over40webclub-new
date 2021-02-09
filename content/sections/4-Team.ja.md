@@ -78,5 +78,13 @@ teamMember: [
       facebook: "shinichiroh.nishijima",
     }
   },
+  {
+    imageFileName: "team/9-n-kazu.jpg",
+    header: "N-KAZU",
+    subheader: "永遠の若手 駆け出しWebデザイナー",
+    social: {
+      twitter: "kavu3939",
+    }
+  },
 ]
 ---

@@ -23,7 +23,6 @@ teamMember: [
       twitter: "yokoiwasaki6",
       github: "yoko-at-home",
       instagram: "yoko_123123",
-
     }
   },
   {
@@ -77,6 +76,14 @@ teamMember: [
       twitter: "Hgnsuika",
       github: "hgnsuika?tab=repositories",
       facebook: "shinichiroh.nishijima",
+    }
+  },
+  {
+    imageFileName: "team/9-n-kazu.jpg",
+    header: "N-KAZU",
+    subheader: "Eternally young, fledgling web designer",
+    social: {
+      twitter: "kavu3939",
     }
   },
 ]
