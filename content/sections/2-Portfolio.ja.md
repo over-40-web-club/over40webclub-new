@@ -7,9 +7,9 @@ portfolios: [
   {
     imageFileName: "portfolio/05-thumbnail.jpg",
     imageFileNameDetail: "portfolio/05-thumbnail.jpg",
-    header: "無料でデプロイしてみよう",
-    subheader: "[予告] Connpass イベント②",
-    content: "✨",
+    header: "無料でデプロイしてみよう。初学者でもサクッとできる方法を紹介します。",
+    subheader: "[予告] Connpass イベント② 勉強会ドリブン学習法の理念のもと、ウェブ制作学習者による学習会です。",
+    content: "✨✨✨**[Connpassイベント会場はこちら](https://over40webclub.connpass.com/event/204362/)**✨✨✨",
     extraInfo: ["日付： 3月6日(土)", "司会： yoko", "講師： そんほんす", "運営： ピータン、N.KAZU","カテゴリ： サイト制作、デプロイ"]
   },
   {
