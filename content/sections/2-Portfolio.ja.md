@@ -6,16 +6,16 @@ portfolios: [
 
   {
     imageFileName: "portfolio/05-thumbnail.jpg",
-    imageFileNameDetail: "portfolio/05-full.jpg",
+    imageFileNameDetail: "portfolio/05-thumbnail.jpg",
     header: "無料でデプロイしてみよう",
     subheader: "[予告] Connpass イベント②",
     content: "✨",
-    extraInfo: ["日付： 3月✨日", "司会： yoko", "講師： そんほんす", "運営： ピータン、N.KAZU","カテゴリ： サイト制作、デプロイ"]
+    extraInfo: ["日付： 3月6日(土)", "司会： yoko", "講師： そんほんす", "運営： ピータン、N.KAZU","カテゴリ： サイト制作、デプロイ"]
   },
   {
     imageFileName: "portfolio/06-thumbnail.jpg",
-    imageFileNameDetail: "portfolio/06-full.jpg",
-    header: "40代転職サクセス組オンライン座談会",
+    imageFileNameDetail: "portfolio/06-thumbnail.jpg",
+    header: "40代転職を実現したクラブのメンバーにその経験と戦略を伺います",
     subheader: "[予告] （クラブ限定）",
     content: "✨",
     extraInfo: ["日付： 2020.2.✨", "話し手：みぃも ✨", "カテゴリ: キャリア✨"]

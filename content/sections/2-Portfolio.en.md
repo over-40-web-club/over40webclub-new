@@ -9,7 +9,7 @@ portfolios: [
     header: "Let's deploy your work to a major hosting site!",
     subheader: "Connpass Online Event (upcoming)",
     content: "✨",
-    extraInfo: ["Date: ✨th February 2021", "Moderator: yoko", "Lecturer: Son", "Admin: Pitang, N.KAZU","Category: Website creation, Deploy"]
+    extraInfo: ["Date: 6th Marcg 2021", "Moderator: yoko", "Lecturer: Son", "Admin: Pitang, N.KAZU","Category: Website creation, Deploy"]
   },
   {
     imageFileName: "portfolio/06-thumbnail.jpg",
@@ -50,6 +50,6 @@ portfolios: [
     subheader: "What is Gatsby? We published a simple web page in the workshop!",
     content: "We held a learning session about Gatsby and published a [simple webpage](https://yokoyoko.netlify.app/).",
     extraInfo: ["Date: 17th October, 2020", "Lecturer: yoko", "Category: Gatsby, JSX, Netlify"]
-  },
+  }
 ]
 ---

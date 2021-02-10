@@ -25,13 +25,19 @@ timeline: [
     imageFileName: "about/4.jpg",
     header: "2020年12月",
     subheader: "ポモドーロタイマー開発",
-    content: "管理人ピータンの呼びかけにより、ポモドーロタイマー開発大会実施中。"
+    content: "管理人ピータンの呼びかけにより、ポモドーロタイマー開発大会実施"
   },
   {
     imageFileName: "about/1.jpg",
     header: "2021年2月",
-    subheader: "Connpasイベントを主催",
-    content: "Son Hiroki Hongsuさんを講師に、「WordPressもいいけど、Gatsbyもね」主催"
+    subheader: "Connpasイベント①",
+    content: "そんほんす さんを講師に「WordPressもいいけど、Gatsbyもね」主催"
+  },
+  {
+    imageFileName: "about/2.jpg",
+    header: "2021年3月",
+    subheader: "Connpasイベント②",
+    content: "「【超入門】Webサイトをデプロイしよう！GitHubから無料でサクッと公開」主催"
   },
   {
     imageContent: "ご一緒\r\nに\r\nどうぞ"

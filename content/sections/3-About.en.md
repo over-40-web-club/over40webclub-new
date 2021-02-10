@@ -30,8 +30,14 @@ timeline: [
   {
     imageFileName: "about/1.jpg",
     header: "February 2021",
-    subheader: "Connpas Event",
+    subheader: "Connpas Event 1",
     content: "WordPress is good, but so is Gatsby, hosted by Son."
+  },
+  {
+    imageFileName: "about/2.jpg",
+    header: "March 2021",
+    subheader: "Connpas Event 2",
+    content: "How to deploy your work to a major hosting site."
   },
   {
     imageContent: "Be Part\r\nOf Our\r\nStory!"
