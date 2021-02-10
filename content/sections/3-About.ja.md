@@ -4,7 +4,7 @@ header: "沿革"
 subheader: "Web開発の勉強をしている40歳以上の方が、情報交換したり、助けあったり、交流を深めたりするためのオンラインコミュニティ"
 timeline: [
   {
-    imageFileName: "about/1.jpg",
+    imageFileName: "about/1-launch.jpg",
     header: "2020年9月28日",
     subheader: "Over 40 Web Club発足",
     content: "ピータンが発起人となりクラブを立ち上げる"

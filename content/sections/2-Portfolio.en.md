@@ -8,7 +8,7 @@ portfolios: [
     imageFileNameDetail: "portfolio/05-full.jpg",
     header: "Let's deploy your work to a major hosting site!",
     subheader: "Connpass Online Event (upcoming)",
-    content: "✨",
+    content: "✨✨✨✨✨**[Enroll here](https://over40webclub.connpass.com/event/204362/)**✨✨✨✨✨",
     extraInfo: ["Date: 6th Marcg 2021", "Moderator: yoko", "Lecturer: Son", "Admin: Pitang, N.KAZU","Category: Website creation, Deploy"]
   },
   {
