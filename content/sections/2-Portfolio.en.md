@@ -3,13 +3,22 @@ anchor: "Portfolio"
 header: "Portfolio"
 subheader: "Activities so far"
 portfolios: [
+
+  {
+    imageFileName: "portfolio/07-thumbnail.jpg",
+    imageFileNameDetail: "portfolio/07-thumbnail.jpg",
+    header: "[Headless WordPress]",
+    subheader: "Connpass Online Event (21th February)",
+    content: "✨✨✨✨✨**[Enroll here](https://over40webclub.connpass.com/event/204563/)**✨✨✨✨✨",
+    extraInfo: ["Date: 21th February 2021", "Moderator: yoko", "Lecturer: Son", "Admin: Pitang, N.KAZU","Category: Website creation, Deploy"]
+  },
   {
     imageFileName: "portfolio/05-thumbnail.jpg",
     imageFileNameDetail: "portfolio/05-full.jpg",
     header: "Let's deploy your work to a major hosting site!",
-    subheader: "Connpass Online Event (upcoming)",
+    subheader: "Connpass Online Event (6th March)",
     content: "✨✨✨✨✨**[Enroll here](https://over40webclub.connpass.com/event/204362/)**✨✨✨✨✨",
-    extraInfo: ["Date: 6th Marcg 2021", "Moderator: yoko", "Lecturer: Son", "Admin: Pitang, N.KAZU","Category: Website creation, Deploy"]
+    extraInfo: ["Date: 6th March 2021", "Moderator: yoko", "Lecturer: Son", "Admin: Pitang, N.KAZU","Category: Website creation, Deploy"]
   },
   {
     imageFileName: "portfolio/06-thumbnail.jpg",
