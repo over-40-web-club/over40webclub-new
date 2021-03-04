@@ -5,7 +5,7 @@ subheader: "Would you like to join us?"
 content: "In a society with a longevity never experienced, we will fulfill our dream  and prosper by learning further. How about to strive together?"
 teamMember: [
   {
-    imageFileName: "team/1.jpg",
+    imageFileName: "team/pitang.jpg",
     header: "Pitang",
     subheader: "I am in my 50s and have been learning about web technologies on my own since January 2019. Currently learning Gatsby + Shopify, Next.js",
     social: {
@@ -16,9 +16,9 @@ teamMember: [
     }
   },
   {
-    imageFileName: "team/2.jpg",
+    imageFileName: "team/yoko.jpg",
     header: "yoko",
-    subheader: "Would love to deliver you smile using Web",
+    subheader: "Would love to deliver you smile with Web, Movie and Narration",
     social: {
       twitter: "yokoiwasaki6",
       github: "yoko-at-home",
@@ -26,16 +26,17 @@ teamMember: [
     }
   },
   {
-    imageFileName: "team/3.jpg",
+    imageFileName: "team/son.jpg",
     header: "Son Hiroki Hongsu",
     subheader: "Targetting at April 2022, I'm learning to be a freelance engineer!",
     social: {
+      homepage: "https://horumont.info",
       twitter: "horumont",
       github: "sonho463",
     }
   },
   {
-    imageFileName: "team/4-damgo.jpg",
+    imageFileName: "team/damgo.jpg",
     header: "Damgo",
     subheader: "Lifelong programmer",
     social: {
@@ -43,15 +44,16 @@ teamMember: [
     }
   },
   {
-    imageFileName: "team/5-kamiking.jpg",
+    imageFileName: "team/kamiking.jpg",
     header: "Kamiking",
-    subheader: "coming soon",
+    subheader: "Web Creator & DJ",
     social: {
+      homepage: "https://fabricfk-fukuoka.site/portfolio/",
       twitter: "kamikin_program",
     }
   },
   {
-    imageFileName: "team/6-bat.jpg",
+    imageFileName: "team/bat.jpg",
     header: "Bat",
     subheader: "coming soon",
     social: {
@@ -59,7 +61,7 @@ teamMember: [
     }
   },
   {
-    imageFileName: "team/7-miemo.jpg",
+    imageFileName: "team/miemo.jpg",
     header: "miemo",
     subheader: "Fledgling data analyst",
     social: {
@@ -68,9 +70,9 @@ teamMember: [
     }
   },
   {
-    imageFileName: "team/8-nishijima.jpg",
-    header: "Shinichiroh Nishijima",
-    subheader: "Self-employed **[JTECPC](https://jtecpc.com)** in London, studying marketing, front-end and English with the aim of becoming a Shopify developer",
+    imageFileName: "team/hgnsuika.jpg",
+    header: "hgnsuika",
+    subheader: "Relocation Agent **[JTECPC](https://jtecpc.com)** in London. I wanna be a Shopify Developer!",
     social: {
       homepage: "https://hgnsuika.com/",
       twitter: "Hgnsuika",
@@ -79,7 +81,7 @@ teamMember: [
     }
   },
   {
-    imageFileName: "team/9-n-kazu.jpg",
+    imageFileName: "team/n-kazu.jpg",
     header: "N-KAZU",
     subheader: "Eternally young, fledgling web designer",
     social: {
