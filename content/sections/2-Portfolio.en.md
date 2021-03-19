@@ -3,6 +3,14 @@ anchor: "Portfolio"
 header: "Portfolio"
 subheader: "Activities so far"
 portfolios: [
+    {
+    imageFileName: "portfolio/06-thumbnail.jpg",
+    imageFileNameDetail: "portfolio/06-full.jpg",
+    header: "Success Stories",
+    subheader: "Carrier Change in 40s (Only for Club menbers)",
+    content: "✨",
+    extraInfo: ["Date: 2020 Feb", "Talk: Miemo", "Category: Carrier"]
+  },
   {
     imageFileName: "portfolio/05-thumbnail.jpg",
     imageFileNameDetail: "portfolio/05-full.jpg",
@@ -18,14 +26,6 @@ portfolios: [
     subheader: "Connpass Online Event (21th February)",
     content: "✨✨✨✨✨**[Enroll here](https://over40webclub.connpass.com/event/204563/)**✨✨✨✨✨",
     extraInfo: ["Date: 21th February 2021", "Moderator: yoko", "Lecturer: Son", "Admin: Pitang, N.KAZU","Category: Website creation, Deploy"]
-  },
-  {
-    imageFileName: "portfolio/06-thumbnail.jpg",
-    imageFileNameDetail: "portfolio/06-full.jpg",
-    header: "Success Stories",
-    subheader: "Carrier Change in 40s (Only for Club menbers)",
-    content: "✨",
-    extraInfo: ["Date: 2020 Feb", "Talk: Miemo", "Category: Carrier"]
   },
     {
     imageFileName: "portfolio/04-thumbnail.jpg",
