@@ -30,13 +30,13 @@ timeline: [
   {
     imageFileName: "about/1.jpg",
     header: "2021年2月",
-    subheader: "Connpasイベント①",
+    subheader: "Connpassイベント①",
     content: "そんほんす さんを講師に「WordPressもいいけど、Gatsbyもね」主催"
   },
   {
     imageFileName: "about/2.jpg",
     header: "2021年3月",
-    subheader: "Connpasイベント②",
+    subheader: "Connpassイベント②",
     content: "「【超入門】Webサイトをデプロイしよう！GitHubから無料でサクッと公開」主催"
   },
   {

@@ -3,11 +3,19 @@ anchor: "ポートフォリオ"
 header: "ポートフォリオ"
 subheader: "これまでの活動"
 portfolios: [
+    {
+    imageFileName: "portfolio/06-thumbnail.jpg",
+    imageFileNameDetail: "portfolio/06-full.jpg",
+    header: "40代転職を実現したクラブのメンバーにその経験と戦略を伺います",
+    subheader: "3月21日(日)（クラブ限定）",
+    content: "✨",
+    extraInfo: ["日付： 2020.2.✨", "話し手：みぃも ✨", "カテゴリ: キャリア✨"]
+  },
   {
     imageFileName: "portfolio/05-thumbnail.jpg",
     imageFileNameDetail: "portfolio/05-full.jpg",
     header: "無料でデプロイしてみよう。",
-    subheader: "[予告] 3月6日(日)Connpass イベント③ 初学者でもサクッとできる方法を紹介します。",
+    subheader: "3月6日(日)Connpass イベント③ 初学者でもサクッとできる方法を紹介します。",
     content: "勉強会ドリブン学習法の理念のもと、ウェブ制作学習者による学習会です。✨✨**[Connpassイベント会場はこちら](https://over40webclub.connpass.com/event/204362/)**✨✨",
     extraInfo: ["日付： 3月6日(日)", "司会： yoko", "講師： そんほんす", "企画： ピータン", "サムネデザイン：N.KAZU","カテゴリ： WordPress、Gatsby"]
   },
@@ -18,14 +26,6 @@ portfolios: [
     subheader: "2月21日(日)Connpass イベント② Gatsbyでサクッとブログを高速化！",
     content: "既存のWordPressサイトをGatsbyを用いてヘッドレスCMS化（コンテンツ管理はWordPressを利用したままフロントエンドを静的サイトジェネレータで生成）して公開する方法について学習します✨✨**[Connpassイベント会場はこちら](https://connpass.com/event/204563/)**✨✨",
     extraInfo: ["日付： 2月21日(土)", "司会： yoko", "講師： そんほんす", "企画： ピータン", "サムネデザイン：N.KAZU","カテゴリ： サイト制作、デプロイ"]
-  },
-  {
-    imageFileName: "portfolio/06-thumbnail.jpg",
-    imageFileNameDetail: "portfolio/06-full.jpg",
-    header: "40代転職を実現したクラブのメンバーにその経験と戦略を伺います",
-    subheader: "[予告] （クラブ限定）",
-    content: "✨",
-    extraInfo: ["日付： 2020.2.✨", "話し手：みぃも ✨", "カテゴリ: キャリア✨"]
   },
     {
     imageFileName: "portfolio/04-thumbnail.jpg",
