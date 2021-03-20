@@ -40,6 +40,12 @@ timeline: [
     content: "「【超入門】Webサイトをデプロイしよう！GitHubから無料でサクッと公開」主催"
   },
   {
+    imageFileName: "about/3.jpg",
+    header: "2021年",
+    subheader: "クラブの価値を高める活動続々実施中",
+    content: ""
+  },
+  {
     imageContent: "ご一緒\r\nに\r\nどうぞ"
   }
 ]

@@ -40,6 +40,12 @@ timeline: [
     content: "How to deploy your work to a major hosting site."
   },
   {
+    imageFileName: "about/3.jpg",
+    header: "2021",
+    subheader: "Various Events Are Taking Place",
+    content: ""
+  },
+  {
     imageContent: "Be Part\r\nOf Our\r\nStory!"
   }
 ]
