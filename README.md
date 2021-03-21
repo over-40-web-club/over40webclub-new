@@ -66,7 +66,7 @@ gatsby new my-blog-folder https://github.com/thundermiracle/gatsby-startbootstra
 
 ## Basic Configuration
 
-- `iconName` in Services.md MUST be defined in `'config/CustomIcons.jsx'`.
+- `iconName` in About.md MUST be defined in `'config/CustomIcons.jsx'`.
 
 - `imageFileName` in markdown MUST be added in `'content/assets'`.
 

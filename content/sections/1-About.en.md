@@ -1,5 +1,5 @@
 ---
-anchor: "Services"
+anchor: "About"
 header: "What is Over 40 Web Club?"
 subheader: "Over 40 Web Club is an online community where people over 40 studying web development exchange information, help each other and socialise to prosper."
 services: [
