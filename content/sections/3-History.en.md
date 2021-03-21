@@ -1,6 +1,6 @@
 ---
-anchor: "About"
-header: "About"
+anchor: "History"
+header: "History"
 subheader: "In a society with a longevity never experienced, we will fulfill our dream  and prosper by learning further. How about to strive together?"
 timeline: [
   {
