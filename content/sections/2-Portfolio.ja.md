@@ -9,7 +9,7 @@ portfolios: [
     header: "40代転職を実現したクラブのメンバーにその経験と戦略を伺います",
     subheader: "3月21日(日)（クラブ限定）",
     content: "✨",
-    extraInfo: ["日付： 2020.2.✨", "話し手：みぃも ✨", "カテゴリ: キャリア✨"]
+    extraInfo: ["日付： 3月21日(日)✨", "話し手：みぃも ✨", "カテゴリ: キャリア✨"]
   },
   {
     imageFileName: "portfolio/05-thumbnail.jpg",

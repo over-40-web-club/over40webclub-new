@@ -9,7 +9,7 @@ portfolios: [
     header: "Success Stories",
     subheader: "Carrier Change in 40s (Only for Club menbers)",
     content: "✨",
-    extraInfo: ["Date: 2020 Feb", "Talk: Miemo", "Category: Carrier"]
+    extraInfo: ["Date: 2020 March", "Talk: Miemo", "Category: Carrier"]
   },
   {
     imageFileName: "portfolio/05-thumbnail.jpg",
