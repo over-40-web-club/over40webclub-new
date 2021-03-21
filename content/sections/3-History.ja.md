@@ -30,14 +30,14 @@ timeline: [
   {
     imageFileName: "history/1.jpg",
     header: "2021年2月",
-    subheader: "Connpassイベント①",
-    content: "そんほんす さんを講師に「WordPressもいいけど、Gatsbyもね」主催"
+    subheader: "Connpassイベントで活動を開始",
+    content: "そんほんす さんを講師に「WordPressもいいけど、Gatsbyもね」/ 【超入門】Webサイトをデプロイしよう！主催"
   },
   {
     imageFileName: "history/2.jpg",
     header: "2021年3月",
-    subheader: "Connpassイベント②",
-    content: "「【超入門】Webサイトをデプロイしよう！GitHubから無料でサクッと公開」主催"
+    subheader: "Slackお引っ越し",
+    content: "活発な活動の記録を残すために、続Over 40 Web Clubとして新Slackにお引っ越ししました"
   },
   {
     imageFileName: "history/3.jpg",

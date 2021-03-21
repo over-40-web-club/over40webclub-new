@@ -30,19 +30,19 @@ timeline: [
   {
     imageFileName: "history/1.jpg",
     header: "February 2021",
-    subheader: "Connpass Event 1",
-    content: "WordPress is good, but so is Gatsby, hosted by Son."
+    subheader: "Starts Joining Connpass Events",
+    content: "WordPress is good, but so is Gatsby/How to deploy your work to a major hosting site, hosted by Son."
   },
   {
     imageFileName: "history/2.jpg",
     header: "March 2021",
-    subheader: "Connpass Event 2",
-    content: "How to deploy your work to a major hosting site."
+    subheader: "Moves to a New Slack",
+    content: "To keep all information/records in slack, we have moved to a new Slack."
   },
   {
     imageFileName: "history/3.jpg",
     header: "2021",
-    subheader: "Various Events Are Taking Place",
+    subheader: "Various Events Are Taking Place for improving our skills and sharing information",
     content: ""
   },
   {
