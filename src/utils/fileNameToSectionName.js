@@ -1,10 +1,10 @@
 /**
- * 1-About => About
- * 1-services => About
- * 1- services => About
- * About => About
- * services => About
- * 1-About.ja -> About
+ * 1-Services => Services
+ * 1-services => Services
+ * 1- services => Services
+ * Services => Services
+ * services => Services
+ * 1-Services.ja -> Services
  */
 export default function fileNameToSectionName(fileName) {
   if (fileName == null || fileName === "" || typeof fileName !== "string") {
