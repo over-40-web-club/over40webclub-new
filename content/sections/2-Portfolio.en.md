@@ -4,10 +4,26 @@ header: "Portfolio"
 subheader: "Activities so far"
 portfolios: [
     {
+    imageFileName: "portfolio/09-full.jpg",
+    imageFileNameDetail: "portfolio/09-full.jpg",
+    header: "Gitpod ABC",
+    subheader: "Better Collaboration with Workspace Sharing",
+    content: "✨",
+    extraInfo: ["Date: 2020 March", "Talk: Miemo", "Category: Carrier"]
+  },
+    {
     imageFileName: "portfolio/06-thumbnail.jpg",
     imageFileNameDetail: "portfolio/06-full.jpg",
     header: "Success Stories",
     subheader: "Carrier Change in 40s (Only for Club menbers)",
+    content: "✨",
+    extraInfo: ["Date: 2020 March", "Talk: Miemo", "Category: Carrier"]
+  },
+    {
+    imageFileName: "portfolio/08-full.jpg",
+    imageFileNameDetail: "portfolio/08-full.jpg",
+    header: "Tailwind CSS",
+    subheader: "Let's dive into a css framework for better experience!",
     content: "✨",
     extraInfo: ["Date: 2020 March", "Talk: Miemo", "Category: Carrier"]
   },
