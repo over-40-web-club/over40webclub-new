@@ -4,12 +4,28 @@ header: "ポートフォリオ"
 subheader: "これまでの活動"
 portfolios: [
     {
+    imageFileName: "portfolio/09-full.jpg",
+    imageFileNameDetail: "portfolio/09-full.jpg",
+    header: "Gitpod入門 チームでコードを共有してみよう",
+    subheader: "4月25日(日)（クラブ限定）",
+    content: "Gitpodを導入してチーム開発体験✨",
+    extraInfo: ["日付： 3月21日(日)✨", "講師：yoko ✨", "カテゴリ: web制作✨"]
+  },
+    {
     imageFileName: "portfolio/06-thumbnail.jpg",
     imageFileNameDetail: "portfolio/06-full.jpg",
     header: "40代転職を実現したクラブのメンバーにその経験と戦略を伺います",
     subheader: "3月21日(日)（クラブ限定）",
     content: "✨",
     extraInfo: ["日付： 3月21日(日)✨", "話し手：みぃも ✨", "カテゴリ: キャリア✨"]
+  },
+    {
+    imageFileName: "portfolio/08-full.jpg",
+    imageFileNameDetail: "portfolio/08-full.jpg",
+    header: "Tailwind CSS 入門",
+    subheader: "3月14日(日)（クラブ限定）",
+    content: "Let's dive into a css framework for better experience!✨",
+    extraInfo: ["日付： 3月21日(日)✨", "司会： yoko",  "講師：Kaz ✨", "カテゴリ: web制作✨"]
   },
   {
     imageFileName: "portfolio/05-thumbnail.jpg",
