@@ -30,6 +30,7 @@ module.exports = {
     facebookAppId,
   },
   plugins: [
+    `gatsby-plugin-image`,
     {
       resolve: "gatsby-plugin-google-analytics",
       options: {
@@ -72,8 +73,10 @@ module.exports = {
     {
       resolve: "gatsby-plugin-sass",
       options: {
-        data: `@import "core.scss";`,
-        includePaths: [path.resolve(__dirname, "src/style")],
+        sassOptions: {
+          data: `@import "core.scss";`,
+          includePaths: [path.resolve(__dirname, "src/style")],
+        },
       },
     },
     {
