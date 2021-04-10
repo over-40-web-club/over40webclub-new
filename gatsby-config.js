@@ -1,3 +1,7 @@
+require('dotenv').config({
+  path: `.env.${process.env.NODE_ENV}`,
+});
+
 const path = require("path");
 const {
   title,
@@ -30,6 +34,23 @@ module.exports = {
     facebookAppId,
   },
   plugins: [
+    {
+      resolve: `gatsby-source-airtable`,
+      options: {
+        apiKey: process.env.AIRTABLE_API_KEY,
+        concurrency: 5,
+        tables: [
+          // 複数指定可
+          {
+            baseId: process.env.AIRTABLE_BASE_ID,
+            tableName: process.env.AIRTABLE_TABLE_NAME,
+            mapping: { Photo: `fileNode` }, // optional
+            separateNodeType: false,
+            separateMapType: false,
+          },
+        ],
+      },
+    },
     `gatsby-plugin-image`,
     {
       resolve: "gatsby-plugin-google-analytics",
