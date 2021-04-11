@@ -80,20 +80,6 @@ export const query = graphql`
             instagram
           }
           subheader
-          teamMember {
-            header
-            imageFileName
-            social {
-              homepage
-              facebook
-              github
-              linkedin
-              medium
-              twitter
-              instagram
-            }
-            subheader
-          }
           telephone
           termsHref
           termsText

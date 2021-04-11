@@ -1,4 +1,5 @@
 import React from "react";
+import { useStaticQuery, graphql } from "gatsby";
 import PropTypes from "prop-types";
 import Markdown from "markdown-to-jsx";
 
@@ -9,6 +10,36 @@ import PageSection from "components/PageSection";
 import "./Team.scss";
 
 const Team = ({ className, frontmatter }) => {
+  const data = useStaticQuery(graphql`
+    query {
+      allAirtable(sort: { order: ASC, fields: data___Order }) {
+        nodes {
+          data {
+            Name
+            Bio
+            Homepage_URL
+            Twitter_username
+            GitHub_username
+            Instagram_username
+            YouTube_URL
+            Photo {
+              localFiles {
+                childImageSharp {
+                  gatsbyImageData(
+                    width: 200
+                    layout: FIXED
+                    placeholder: BLURRED
+                    formats: [AUTO, WEBP, AVIF]
+                  )
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  `);
+
   if (!frontmatter) {
     return null;
   }
@@ -18,8 +49,26 @@ const Team = ({ className, frontmatter }) => {
     header: rootHeader,
     subheader: rootSubHeader,
     content: rootContent,
-    teamMember,
   } = frontmatter;
+
+  // GraphQLで取得したAirtableのデータを元のスターターの形式のオブジェクト配列に設定
+  const teamMembers = [];
+  data.allAirtable.nodes.forEach((node) => {
+    const member = node.data;
+    teamMembers.push({
+      imageFile: member.Photo.localFiles[0],
+      imageAlt: member.Name,
+      header: member.Name,
+      subheader: member.Bio,
+      social: {
+        homepage: member.Homepage_URL,
+        twitter: member.Twitter_username,
+        github: member.GitHub_username,
+        instagram: member.Instagram_username,
+        youtube: member.YouTube_URL,
+      },
+    });
+  });
 
   return (
     <PageSection className={className} id={anchor}>
@@ -27,7 +76,7 @@ const Team = ({ className, frontmatter }) => {
         <SectionHeader header={rootHeader} subheader={rootSubHeader} />
       </Row>
       <Row>
-        {teamMember.map(({ header, ...tmProps }) => (
+        {teamMembers.map(({ header, ...tmProps }) => (
           <Col sm={4} key={header}>
             <TeamMember header={header} {...tmProps} />
           </Col>
@@ -45,11 +94,13 @@ const Team = ({ className, frontmatter }) => {
 Team.propTypes = {
   className: PropTypes.string,
   frontmatter: PropTypes.object,
+  teamMember: PropTypes.object,
 };
 
 Team.defaultProps = {
   className: null,
   frontmatter: null,
+  teamMember: null,
 };
 
 export default Team;

@@ -53,6 +53,8 @@ typings/
 
 # dotenv environment variables file
 .env
+.env*
+.env.*
 
 # gatsby files
 .cache/
@@ -70,3 +72,4 @@ yarn-error.log
 
 # JetBrains
 .idea/
+.vscode/settings.json
