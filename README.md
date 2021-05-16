@@ -14,7 +14,7 @@ Over 40 Web Club
 
 ## Preview
 
-![over40webclub.netlify.app]](https://user-images.githubusercontent.com/61738591/118391084-77a62600-b66d-11eb-89af-32e8694edcd2.png)
+![over40webclub.netlify.app](https://user-images.githubusercontent.com/61738591/118391084-77a62600-b66d-11eb-89af-32e8694edcd2.png)
 
 
 ## 起動方法
