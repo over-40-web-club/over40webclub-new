@@ -14,79 +14,38 @@ Over 40 Web Club
 
 ## Preview
 
-![startbootstrap-agency](https://github.com/thundermiracle/gatsby-startbootstrap-agency/blob/screenshot/screenshot/startbootstrap-agency.png)
+![over40webclub.netlify.app]](https://user-images.githubusercontent.com/61738591/118391084-77a62600-b66d-11eb-89af-32e8694edcd2.png)
 
-## Sample page
 
-[https://gatsby-startbootstrap-agency.netlify.app](https://gatsby-startbootstrap-agency.netlify.app)
+## 起動方法
 
-[※ startbootstrap-agency (Original Version)](https://github.com/BlackrockDigital/startbootstrap-agency)
-
-[※ startbootstrap-agency-webpack(Webpack Version)](https://github.com/thundermiracle/startbootstrap-agency-webpack/)
-
-## Note
-
-__If you're not interesting in i18n, use [StaticQueryVersion](https://github.com/thundermiracle/gatsby-startbootstrap-agency/tree/StaticQueryVersion) instead. StaticQueryVersion gets better performance and better code structure.__
-
-## How to use
-
-This project is using `yarn` as the package manager. You have to set yarn as Gatsby-cli's package manager first.
+このプロジェクトはパッケージ管理に `yarn` を使用しています。
+Gatsby-cliのパッケージ管理に、先にyarnを設定してください。
 
 [https://www.gatsbyjs.com/docs/glossary/yarn/#using-yarn-as-your-gatsby-package-manager](https://www.gatsbyjs.com/docs/glossary/yarn/#using-yarn-as-your-gatsby-package-manager)
 
 ```sh
 npm install -g gatsby-cli
 
-gatsby new my-blog-folder https://github.com/thundermiracle/gatsby-startbootstrap-agency
 ```
 
-## Why Gatsby Version
+## 環境変数
 
-1. > Original version is great but have to load too many unnecessary contents from CDN including all components in `bootstrap`, all solid & brands icons in `fontawesome`. That dramatically slows down the FCP(first contentful paint) in 3G environment.
+このプロジェクトの起動には、次の環境変数が必要です（.env.development と .env.production をローカルに作成してください）
 
-    Using Gatsby could tree-shaking unnecessary code, optimizing images which make first contentful paint very fast.
+`AIRTABLE_API_KEY="xxxx"`
 
-1. > Implementation of i18n in original version is not easy and will make a lot of redundant code.
+`AIRTABLE_BASE_ID="xxxx"`
 
-    i18n is really easy in Gatsby and i18n is more maintainable.
+`AIRTABLE_TABLE_NAME="xxxx"`
 
-## Comparison of Original, Webpack and Gatsby version
+環境変数は管理者にお問い合わせください。
 
-### Gatsby Version
 
-![Gatsby lighthouse](https://github.com/thundermiracle/gatsby-startbootstrap-agency/blob/screenshot/screenshot/lighthouse_gatsby.png)
+## Source
 
-### Webpack Version
+[https://gatsby-startbootstrap-agency.netlify.app](https://gatsby-startbootstrap-agency.netlify.app)
 
-![Webpack lighthouse](https://github.com/thundermiracle/gatsby-startbootstrap-agency/blob/screenshot/screenshot/lighthouse_webpack.png)
-
-### Original Version
-
-![Original lighthouse](https://github.com/thundermiracle/gatsby-startbootstrap-agency/blob/screenshot/screenshot/lighthouse_original.png)
-
-## Basic Configuration
-
-- `iconName` in About.md MUST be defined in `'config/CustomIcons.jsx'`.
-
-- `imageFileName` in markdown MUST be added in `'content/assets'`.
-
-- all configurable contents are saved in markdown files in `'content'` folder.
-
-- change `file name's number` in `'content/sections'` folder to change the sort order.
-
-- nullable items (if defined):
-
-  - `anchor` in section markdown: display in menu if defined in sections' markdown
-  - items in `social`: `homepage, twitter, facebook, linkedin, github, medium, instagram, youtube`
-  - `jumpToAnchor, jumpToAnchorText` in Top.md: add button in Top section
-
-## i18n Configuration
-
-- set defaultLang in `'config/site.js'`
-
-- add langTextMap to `'config/site.js'` (LanguageSelector won't display if langTextMap is not defined. Consider using [StaticQueryVersion](#note) if i18n is not necessary)
-
-- copy markdown files in `'content'` folder, rename it to `xxxx.[langKey].md` and translate the contents
 
 ## License
 
