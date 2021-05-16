@@ -4,6 +4,22 @@ header: "ポートフォリオ"
 subheader: "これまでの活動"
 portfolios: [
     {
+    imageFileName: "portfolio/10-thumbnail.jpg",
+    imageFileNameDetail: "portfolio/10-full.jpg",
+    header: "ヘッドレスCMSで爆速ブログ構築〜",
+    subheader: "2021年05月29日(土）15:00～16:00 Connpassイベントからお申し込みください！",
+    content: "ヘッドレスCMSで爆速ブログ構築〜 ✨✨**[Connpassイベント会場はこちら](https://over40webclub.connpass.com/event/212129/)**✨✨",
+    extraInfo: ["日付： 2021年05月29日(土）", "講師：そんほんす ", "カテゴリ: web制作、Gatsby、microCMS、Bootstrap"]
+  },
+    {
+    imageFileName: "portfolio/11-thumbnail.jpg",
+    imageFileNameDetail: "portfolio/11-full.jpg",
+    header: "PHP 講座 シリーズで開催中",
+    subheader: "日程はSlackで確認 ！（クラブ限定）",
+    content: "「気づけばプロ並みPHP」の内容、ハンズオン形式",
+    extraInfo: ["日付： シリーズで開催中。日程はSlackで確認してください", "講師：訓志✨", "カテゴリ: web開発✨"]
+  },
+    {
     imageFileName: "portfolio/09-full.jpg",
     imageFileNameDetail: "portfolio/09-full.jpg",
     header: "Gitpod入門 チームでコードを共有してみよう",
