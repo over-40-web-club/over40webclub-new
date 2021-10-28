@@ -7,6 +7,7 @@
     "url": "https://github.com/thundermiracle/gatsby-startbootstrap-agency/issues"
   },
   "dependencies": {
+    "@babel/eslint-parser": "^7.15.8",
     "@fortawesome/fontawesome-svg-core": "^1.2.36",
     "@fortawesome/free-brands-svg-icons": "^5.15.4",
     "@fortawesome/free-solid-svg-icons": "^5.15.4",
@@ -46,7 +47,6 @@
   },
   "devDependencies": {
     "@babel/core": "^7.15.8",
-    "babel-eslint": "^10.1.0",
     "babel-plugin-import": "^1.13.3",
     "babel-plugin-module-resolver": "^4.1.0",
     "babel-plugin-transform-imports": "^2.0.0",
