@@ -6,7 +6,7 @@ import { Container, Card } from "react-bootstrap";
 import Image from "components/Image";
 import "./ImageCard.scss";
 
-const ImageCard = ({ className, imageFileName, imageAlt, header, subheader, extraInfo }) => {
+const ImageCard = function ({ className, imageFileName, imageAlt, header, subheader, extraInfo }) {
   return (
     <Card className={clsx("image-card bg-dark text-white text-center", className)}>
       <Image className="image" fileName={imageFileName} alt={imageAlt || header || subheader} />

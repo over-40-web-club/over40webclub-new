@@ -5,7 +5,7 @@ import { Row, Col } from "react-bootstrap";
 // import Icon from "components/Icon";
 import PageSection from "components/PageSection";
 
-const Contact = ({ className, frontmatter }) => {
+const Contact = function ({ className, frontmatter }) {
   if (!frontmatter) {
     return null;
   }

@@ -5,7 +5,7 @@ import Icon from "./Icon";
 
 import "./CircleFAButton.scss";
 
-const CircleFAButton = ({ iconName, ...restProps }) => {
+const CircleFAButton = function ({ iconName, ...restProps }) {
   return (
     <div className="circle-fa-button">
       <Icon iconName={iconName} inverse size="4x" {...restProps} />

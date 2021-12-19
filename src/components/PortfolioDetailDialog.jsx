@@ -1,12 +1,12 @@
 import React from "react";
-import Markdown from 'markdown-to-jsx';
+import Markdown from "markdown-to-jsx";
 import PropTypes from "prop-types";
 
 import { Modal, Button } from "react-bootstrap";
 import Image from "components/Image";
 import Icon from "./Icon";
 
-const PortfolioDetailDialog = ({
+const PortfolioDetailDialog = function ({
   onHide,
   imageFileName,
   imageAlt,
@@ -15,7 +15,7 @@ const PortfolioDetailDialog = ({
   content,
   extraInfo,
   ...restProps
-}) => {
+}) {
   return (
     <Modal
       {...restProps}

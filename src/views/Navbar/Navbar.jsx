@@ -12,7 +12,7 @@ import NavItem from "components/NavItem";
 
 import "./Navbar.scss";
 
-const MyNavbar = ({ anchors, frontmatter, extraItems }) => {
+const MyNavbar = function ({ anchors, frontmatter, extraItems }) {
   const { brand, menuText } = frontmatter;
 
   const handleScrollToTop = useSmoothScrollTo(0);

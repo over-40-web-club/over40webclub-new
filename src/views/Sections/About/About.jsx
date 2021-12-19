@@ -7,7 +7,7 @@ import ServiceItem from "components/ServiceItem";
 import SectionHeader from "components/SectionHeader";
 import PageSection from "components/PageSection";
 
-const About = ({ className, frontmatter }) => {
+const About = function ({ className, frontmatter }) {
   if (!frontmatter) {
     return null;
   }

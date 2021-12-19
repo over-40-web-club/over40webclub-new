@@ -5,7 +5,7 @@ import Icon from "components/Icon";
 
 import "./IconText.scss";
 
-const IconText = ({ iconName, text }) => {
+const IconText = function ({ iconName, text }) {
   return (
     <span className="icon-text">
       <Icon className="icon" iconName={iconName} />

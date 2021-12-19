@@ -6,7 +6,7 @@ import Image from "components/Image";
 
 import "./TimelineItem.scss";
 
-const TimelineItem = ({
+const TimelineItem = function ({
   invert,
   imageFileName,
   imageAlt,
@@ -14,7 +14,7 @@ const TimelineItem = ({
   header,
   subheader,
   content,
-}) => {
+}) {
   const headerPart = header ? <h4>{header}</h4> : null;
   const subheaderPart = subheader ? <h4 className="subheading">{subheader}</h4> : null;
 

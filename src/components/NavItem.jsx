@@ -6,7 +6,7 @@ import { Link } from "react-scroll";
 
 import "./NavItem.scss";
 
-const NavItem = ({ to, onClick, children }) => {
+const NavItem = function ({ to, onClick, children }) {
   return (
     <Nav.Item>
       <Link

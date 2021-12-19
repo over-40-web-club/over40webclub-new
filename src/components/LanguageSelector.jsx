@@ -10,7 +10,7 @@ import getBaseUrl from "utils/getBaseUrl";
 
 import "./LanguageSelector.scss";
 
-const LanguageSelector = ({ defaultLang, langKey, langTextMap }) => {
+const LanguageSelector = function ({ defaultLang, langKey, langTextMap }) {
   return (
     <NavDropdown
       title={<IconText iconName="LanguageIcon" text={langTextMap[langKey]} />}

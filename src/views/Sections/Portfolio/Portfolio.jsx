@@ -8,7 +8,7 @@ import PortfolioItem from "components/PortfolioItem";
 import PageSection from "components/PageSection";
 import "./Portfolio.scss";
 
-const Portfolio = ({ className, frontmatter }) => {
+const Portfolio = function ({ className, frontmatter }) {
   if (!frontmatter) {
     return null;
   }

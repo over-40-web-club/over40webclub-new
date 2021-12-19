@@ -5,7 +5,7 @@ import { Button } from "react-bootstrap";
 import useSmoothScrollTo from "hooks/useSmoothScrollTo";
 import ImageCard from "components/ImageCard";
 
-const Top = ({ frontmatter }) => {
+const Top = function ({ frontmatter }) {
   if (!frontmatter) {
     return null;
   }

@@ -5,7 +5,7 @@ import CircleFAButton from "components/CircleFAButton";
 import Image from "components/Image";
 import "./ServiceItem.scss";
 
-const ServiceItem = ({ iconName, imageFileName, header, content }) => {
+const ServiceItem = function ({ iconName, imageFileName, header, content }) {
   let iconPart;
   if (iconName) {
     iconPart = <CircleFAButton iconName={iconName} />;

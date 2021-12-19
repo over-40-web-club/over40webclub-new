@@ -7,13 +7,13 @@ import * as SocialIcons from "components/SocialIcons";
 
 import "./TeamMember.scss";
 
-const TeamMember = ({
+const TeamMember = function ({
   imageFile,
   imageAlt,
   header,
   subheader,
   social: { homepage, twitter, facebook, linkedin, github, medium, instagram, youtube },
-}) => {
+}) {
   const homepagePart = homepage ? <SocialIcons.Homepage url={homepage} /> : null;
   const twitterPart = twitter ? <SocialIcons.Twitter userName={twitter} /> : null;
   const facebookPart = facebook ? <SocialIcons.Facebook userName={facebook} /> : null;

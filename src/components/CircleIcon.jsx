@@ -4,17 +4,19 @@ import Icon from "components/Icon";
 
 import "./CircleIcon.scss";
 
-const CircleIcon = ({ href, iconName }) => (
-  <a
-    className="circle-icon"
-    href={href}
-    target="_blank"
-    rel="noopener noreferrer"
-    aria-label={iconName}
-  >
-    <Icon iconName={iconName} />
-  </a>
-);
+const CircleIcon = function ({ href, iconName }) {
+  return (
+    <a
+      className="circle-icon"
+      href={href}
+      target="_blank"
+      rel="noopener noreferrer"
+      aria-label={iconName}
+    >
+      <Icon iconName={iconName} />
+    </a>
+  );
+};
 
 CircleIcon.propTypes = {
   href: PropTypes.string,

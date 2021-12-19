@@ -9,7 +9,7 @@ import SectionHeader from "components/SectionHeader";
 import PageSection from "components/PageSection";
 import "./Team.scss";
 
-const Team = ({ className, frontmatter }) => {
+const Team = function ({ className, frontmatter }) {
   const data = useStaticQuery(graphql`
     query {
       allAirtable(sort: { order: ASC, fields: data___Order }) {

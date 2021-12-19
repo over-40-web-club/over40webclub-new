@@ -9,7 +9,7 @@ import nl2br from "utils/nl2br";
 
 import "./History.scss";
 
-const History = ({ className, frontmatter }) => {
+const History = function ({ className, frontmatter }) {
   if (!frontmatter) {
     return null;
   }

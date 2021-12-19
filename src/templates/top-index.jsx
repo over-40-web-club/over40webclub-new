@@ -101,7 +101,7 @@ export const query = graphql`
   }
 `;
 
-const IndexPage = ({ data, pathContext: { langKey, defaultLang, langTextMap } }) => {
+const IndexPage = function ({ data, pathContext: { langKey, defaultLang, langTextMap } }) {
   const {
     site: {
       siteMetadata: {

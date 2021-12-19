@@ -8,7 +8,7 @@ import PortfolioDetailDialog from "components/PortfolioDetailDialog";
 
 import "./PortfolioItem.scss";
 
-const PortfolioItem = ({
+const PortfolioItem = function ({
   imageFileName,
   imageAlt,
   header,
@@ -17,7 +17,7 @@ const PortfolioItem = ({
   imageFileNameDetail,
   imageAltDetail,
   extraInfo,
-}) => {
+}) {
   const [showDetail, setShowDetail] = React.useState(false);
   const handleShowDetail = React.useCallback(() => {
     setShowDetail(true);
