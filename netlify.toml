@@ -1,9 +1,9 @@
 [build]
   command = "yarn && yarn testbuild"
   publish = "public"
-  
+
 [[redirects]]
-  from = "https://over-40-web-club.netlify.app/"
+  from = "https://over40webclub.netlify.app/"
   to = "https://over40web.club"
   status = 301
   force = true
