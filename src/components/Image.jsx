@@ -4,7 +4,7 @@ import PropTypes from "prop-types";
 import { StaticQuery, graphql } from "gatsby";
 import { GatsbyImage } from "gatsby-plugin-image";
 
-const Image = function ({ fileName, alt }) {
+const Image = function ({ fileName, alt, ...restProps }) {
   return (
     <StaticQuery
       query={graphql`
@@ -30,7 +30,7 @@ const Image = function ({ fileName, alt }) {
         }
 
         const imageData = image.node.childImageSharp.gatsbyImageData;
-        return <GatsbyImage alt={alt} image={imageData} />;
+        return <GatsbyImage alt={alt} image={imageData} {...restProps} />;
       }}
     />
   );
