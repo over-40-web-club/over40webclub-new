@@ -35,7 +35,7 @@ timeline: [
   },
   {
     imageFileName: "history/2.jpg",
-    header: "2021年3月",
+    header: "2021年3月、10月",
     subheader: "Slackお引っ越し",
     content: "活発な活動の記録を残すために、続Over 40 Web Clubとして新Slackにお引っ越ししました"
   },
@@ -43,7 +43,7 @@ timeline: [
     imageFileName: "history/3.jpg",
     header: "2021年",
     subheader: "クラブの価値を高める活動続々実施中",
-    content: ""
+    content: "Gatsby, ヘッドレスWordPress、サイトのデプロイ、Tailwind CSS、40代で転職の戦略、PHP講座、Next.js、CSSカスタムプロパティ等のイベントを実施。"
   },
   {
     imageContent: "ご一緒\r\nに\r\nどうぞ"
