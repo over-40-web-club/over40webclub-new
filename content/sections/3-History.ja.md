@@ -45,6 +45,12 @@ timeline: [
     subheader: "クラブの価値を高める活動続々実施中",
     content: "Gatsby, ヘッドレスWordPress、サイトのデプロイ、Tailwind CSS、40代で転職の戦略、PHP講座、Next.js、CSSカスタムプロパティ等のイベントを実施。"
   },
+    {
+    imageFileName: "history/4.jpg",
+    header: "2022年",
+    subheader: "先駆者からの情報提供も続々",
+    content: "先輩フリーランス、企業案件を完成した方、ベテランデザイナーかたからの貴重な勉強会等を開催。6月には4つ目のSlackに引っ越し。"
+  },
   {
     imageContent: "ご一緒\r\nに\r\nどうぞ"
   }
