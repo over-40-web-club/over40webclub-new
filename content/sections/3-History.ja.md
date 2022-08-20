@@ -49,7 +49,7 @@ timeline: [
     imageFileName: "history/4.jpg",
     header: "2022年",
     subheader: "先駆者からの情報提供も続々",
-    content: "先輩フリーランス、企業案件を完成した方、ベテランデザイナーかたからの貴重な勉強会等を開催。6月には4つ目のSlackに引っ越し。"
+    content: "先輩フリーランス、企業案件を完成した方、ベテランデザイナーかたからの貴重な勉強会等を開催。6月には4つ目のSlackに引っ越し。8月にはDiscordに引っ越し。"
   },
   {
     imageContent: "ご一緒\r\nに\r\nどうぞ"
