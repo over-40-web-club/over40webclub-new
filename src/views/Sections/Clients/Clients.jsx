@@ -8,13 +8,20 @@ const TOS = function () {
 
       <div className="tos-contents__wrapper">
         <p>
-          この利用規約（以下、<b>本規約</b>）は、ピータン（以下、<b>管理者</b>
-          ）がSlackワークスペース上で提供するオンラインコミュティ
+          この利用規約（以下、<b>本規約</b>）は、<b>管理者</b>
+          がSlackワークスペース上で提供するオンラインコミュティ
           <b>Over 40 Web Club</b>（以下、<b>本サービス</b>
           ）の利用条件を定めるものです。登録ユーザーの皆さま（以下、
           <b>ユーザー</b>
           ）には、本規約に従って、本サービスをご利用いただきます。
         </p>
+        <p>管理者(Twitterアカウント)</p>
+        <ul>
+          <li>ピータン(@pitang1965)</li>
+          <li>yoko(@yokoiwasaki6)</li>
+          <li>そんほんす(@horumont)</li>
+          <li>Tomoko(@Tomoko_code50)</li>
+        </ul>
         <main>
           <h4>第1条（適用）</h4>
           <ol>
