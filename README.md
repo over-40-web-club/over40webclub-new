@@ -39,7 +39,7 @@ npm install -g gatsby-cli
 
 `AIRTABLE_TABLE_NAME="xxxx"`
 
-環境変数は管理者にお問い合わせください。
+環境変数は運営者にお問い合わせください。
 
 
 ## Source
