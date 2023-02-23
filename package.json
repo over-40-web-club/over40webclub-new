@@ -89,6 +89,6 @@
     "format": "prettier --write src/**/*.{js,jsx}",
     "serve": "gatsby serve",
     "eslint": "eslint ./src",
-    "test": "cross-env NODE_ENV=test yarn run eslint",
+    "test": "cross-env NODE_ENV=test yarn run eslint"
   }
 }
