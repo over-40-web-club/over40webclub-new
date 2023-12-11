@@ -18,7 +18,6 @@ const TOS = function () {
         <p>運営者(Twitterアカウント)</p>
         <ul>
           <li>ピータン(@pitang1965)</li>
-          <li>yoko(@yokoiwasaki6)</li>
           <li>そんほんす(@horumont)</li>
           <li>Tomoko(@Tomoko_code50)</li>
         </ul>
