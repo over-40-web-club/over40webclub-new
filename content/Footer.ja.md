@@ -1,7 +1,7 @@
 ---
-copyright: "Copyright © Over 40 Web Club ✨ 2021"
+copyright: "Copyright © Over 40 Web Club ✨ 2023"
 social: {
-  twitter: "pitang1965"
+  twitter: "shijukarakun"
 }
 privacyText: ""
 privacyHref: "#!"
