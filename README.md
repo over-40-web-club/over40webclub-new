@@ -33,7 +33,7 @@ npm install -g gatsby-cli
 
 このプロジェクトの起動には、次の環境変数が必要です（.env.development と .env.production をローカルに作成してください）
 
-`AIRTABLE_API_KEY="xxxx"`
+`AIRTABLE_API_TOKEN="xxxx"`
 
 `AIRTABLE_BASE_ID="xxxx"`
 

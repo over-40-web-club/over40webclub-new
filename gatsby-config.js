@@ -37,7 +37,7 @@ module.exports = {
     {
       resolve: `gatsby-source-airtable`,
       options: {
-        apiKey: process.env.AIRTABLE_API_KEY,
+        apiKey: process.env.AIRTABLE_API_TOKEN,
         concurrency: 5,
         tables: [
           // 複数指定可
