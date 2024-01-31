@@ -4,10 +4,18 @@ header: "ポートフォリオ"
 subheader: "これまでの活動"
 portfolios: [
     {
+    imageFileName: "portfolio/12-thumbnail.jpg",
+    imageFileNameDetail: "portfolio/12-full.jpg",
+    header: "AstroとmicroCMSで作るシンプルコーポレートサイト",
+    subheader: "2023年12月08日(金）21:00～22:30",
+    content: "AstroとmicroCMSで作るシンプルコーポレートサイト ✨✨**[Connpassイベント会場はこちら](https://over40webclub.connpass.com/event/301712/)**✨✨",
+    extraInfo: ["日付： 2023年12月08日(金）", "講師：そんほんす ", "カテゴリ: Astro、microCMS"]
+  },
+    {
     imageFileName: "portfolio/10-thumbnail.jpg",
     imageFileNameDetail: "portfolio/10-full.jpg",
     header: "ヘッドレスCMSで爆速ブログ構築〜",
-    subheader: "2021年05月29日(土）15:00～16:00 Connpassイベントからお申し込みください！",
+    subheader: "2021年05月29日(土）15:00～16:00",
     content: "ヘッドレスCMSで爆速ブログ構築〜 ✨✨**[Connpassイベント会場はこちら](https://over40webclub.connpass.com/event/212129/)**✨✨",
     extraInfo: ["日付： 2021年05月29日(土）", "講師：そんほんす ", "カテゴリ: web制作、Gatsby、microCMS、Bootstrap"]
   },
