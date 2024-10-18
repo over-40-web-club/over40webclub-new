@@ -15,11 +15,11 @@ const TOS = function () {
           <b>ユーザー</b>
           ）には、本規約に従って、本サービスをご利用いただきます。
         </p>
-        <p>運営者(Twitterアカウント)</p>
+        <p>運営者(Xアカウント)</p>
         <ul>
           <li>ピータン(@pitang1965/@shijukarakun)</li>
           <li>そんほんす(@horumont)</li>
-          <li>Tomoko(@Tomoko_code50)</li>
+          <li>Taku Naga(@_return_null_)</li>
         </ul>
         <main>
           <h4>第1条（適用）</h4>
