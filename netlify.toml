@@ -2,9 +2,6 @@
   command = "yarn build"
   publish = "public"
 
-[build.environment]
-  NODE_VERSION = "18"
-
 [[redirects]]
   from = "https://over40webclub.netlify.app/"
   to = "https://over40web.club"
